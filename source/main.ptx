@@ -11,8 +11,6 @@
     <chapter xml:id="chapter-schedule" xmlns:xi="http://www.w3.org/2001/XInclude">
         <title>Schedule</title>
 
-        <xi:include href="./schedule_friday.ptx" />         <!-- Schedule Friday -->
-
         <xi:include href="./schedule_saturday.ptx" />       <!-- Schedule Saturday -->
     </chapter>
 

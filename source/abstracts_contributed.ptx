@@ -15,11 +15,12 @@
 	</convention>
 
 	<convention xml:id="contributed-talk-1b">
-		<title>Your title here</title>
+		<title>Upper and Lower Bounds on Mosaic and Tile numbers of Knots </title>
 		<p><dl>
-			<li><title>First Last</title> <p>University Name</p></li>
+			<li><title>Roland Allen</title> <p>Gonzaga University</p></li>
+			<li><title>Maria Taggi Padro</title> <p>Gonzaga University, Undergraduate</p></li>
 		</dl></p>
-		<p>Abstract</p>
+		<p>Mosaic Knot theory is a field where mathematical knots are placed on grid diagrams called mosaics. This was established by Dr. Lomonaco and Dr. Kauffman in <em>Quantum Knots and Mosaics</em>. In this work, we place improved lower and upper bounds on the size of a mosaic given only its crossing number or using crossing, braid index, and braid length. This is carried out by constructing an arbitrary diagram of a braid on a mosaic.</p>
 	</convention>
 
 	<convention xml:id="contributed-talk-2a">
@@ -31,11 +32,12 @@
 	</convention>
 
 	<convention xml:id="contributed-talk-2b">
-		<title>Your title here</title>
+		<title>The Weighted Spanning Tree Enumerator of Multi-Partite Graphs</title>
 		<p><dl>
-			<li><title>First Last</title> <p>University Name</p></li>
+			<li><title>Zander Rasmussen</title> <p>Willamette University</p></li>
+			<li><title>Peter Otto</title> <p>Willamette University</p></li>
 		</dl></p>
-		<p>Abstract</p>
+		<p>The weighted spanning tree enumerator (WSTE) is the sum of weights of all spanning trees of a graph.  A recent result expressed the WSTE of multi-partite graphs in terms of the WSTE of its partition graph, which greatly simplifies the computation of the WSTE of the original graph.  The proof to this result is algebraic, using the Weighted Matrix Tree Theorem.  In this talk, we will present the new result and the work we have done in deriving a graph theoretic justification for the result. </p>
 	</convention>
 
 	<convention xml:id="contributed-talk-3a">
@@ -47,11 +49,14 @@
 	</convention>
 
 	<convention xml:id="contributed-talk-3b">
-		<title>Your title here</title>
+		<title>Geodesics and hyperbolicity for half-plane models of taxicab hyperbolic space</title>
 		<p><dl>
-			<li><title>First Last</title> <p>University Name</p></li>
+			<li><title>Alina Potapyev</title> <p>Seattle University</p></li>
+			<li><title>Dylan Helliwell</title> <p>Seattle University, Faculty</p></li>
+			<li><title>Luka Lawrence</title> <p>Seattle University, Undergraduate Student</p></li>
+			<li><title>Kevin Lin</title> <p>Seattle University, Undergraduate Student</p></li>
 		</dl></p>
-		<p>Abstract</p>
+		<p>We develop new geometric spaces by blending the half-plane model for the hyperbolic plane with taxicab geometry. Starting with a taxicab norm on each tangent space, the lengths of curves are analyzed, allowing us to determine geodesics, and from these, a distance function. Then we show that these spaces are hyperbolic in the sense of Gromov.</p>
 	</convention>
 
 	<convention xml:id="contributed-talk-4a">
@@ -63,11 +68,12 @@
 	</convention>
 
 	<convention xml:id="contributed-talk-4b">
-		<title>Your title here</title>
+		<title>Applying Topological Data Analysis to Baseball Analytics: What Persistent Homology Says About the Need for Diverse Offensive Skill Sets</title>
 		<p><dl>
-			<li><title>First Last</title> <p>University Name</p></li>
+			<li><title>Levi	Westeren</title> <p>George Fox University</p></li>
+			<li><title>Thomas Shifley</title> <p>George Fox University</p></li>
 		</dl></p>
-		<p>Abstract</p>
+		<p>Traditional baseball wisdom says that a batting lineup composed of players with very diverse offensive skill sets will produce more runs than one composed of similar players (all other factors being equal). However, very little has been done to empirically validate or challenge this theory, partially due to a lack of tools worthy of answering the question. Within the emerging mathematical field of Topology, a computational tool in Topological Data Analysis (TDA) called Persistent Homology presents a robust method for measuring the diversity of a dataset. Using historical data from Major League Baseball teams and a python script designed to calculate the diversity of a dataset at the H_0 and H_1 levels of Persistent Homology, this centuries-old question can be addressed in a meaningful way.</p>
 	</convention>
 
 	<convention xml:id="contributed-talk-5a">
@@ -79,11 +85,13 @@
 	</convention>
 
 	<convention xml:id="contributed-talk-5b">
-		<title>Your title here</title>
+		<title>The Limits of Complex Zeros of Steele Polynomials</title>
 		<p><dl>
-			<li><title>First Last</title> <p>University Name</p></li>
+			<li><title>Mica	Goldstein</title> <p>Willamette University</p></li>
+			<li><title>Simon Illouz</title> <p>Willamette University, undergraduate</p></li>
+			<li><title>Peter Otto</title> <p>Willamette University</p></li>
 		</dl></p>
-		<p>Abstract</p>
+		<p>The Steele Polynomial is a graph polynomial that arises in the study of minimal spanning trees and gives insights about the connectedness of the graph. In this talk, we present our research on the behavior of the limits of zeroes in the complex plane of the Steele polynomial for various infinite sequences of graphs. Our results use a recent generalization of the Beraha-Kahane-Weiss theorem that extends to the case of repeated roots of the characteristic polynomial of the recursion relationship satisfied by the Steele Polynomials. </p>
 	</convention>
 
 	<convention xml:id="contributed-talk-6a">
@@ -95,11 +103,18 @@
 	</convention>
 
 	<convention xml:id="contributed-talk-6b">
-		<title>Your title here</title>
+		<title>Trees Defined by Their Distance Laplacian Spectrum</title>
 		<p><dl>
-			<li><title>First Last</title> <p>University Name</p></li>
+			<li><title>Skylar McLeod</title> <p>Linfield University</p></li>
+			<li><title>Claire Heitman</title> <p>Linfield University, Undergrad</p></li>
+			<li><title>Devin Doherty</title> <p>Linfield University, Undergrad</p></li>
+			<li><title>Claire Schindler</title> <p>Linfield University, Undergrad</p></li>
+			<li><title>Aiden Crossler</title> <p>Linfield University, Undergrad</p></li>
+			<li><title>Kate Lorenzen</title> <p>Linfield University</p></li>
 		</dl></p>
-		<p>Abstract</p>
+		<p>Graphs can be encoded into a matrix according to some rule. The eigenvalues of the matrix are used to understand the structural properties of graphs. If two graphs share a set of eigenvalues, they are called cospectral. A tree is a graph with no cycles, and for most matrix representations, almost all trees have a cospectral mate.</p>
+		<p>The distance Laplacian matrix is found by subtracting the distance matrix from the diagonal transmission matrix.</p>
+		<p>There is an open conjecture that trees, for their distance Laplacian matrices, do not have a cospectral mate and are therefore spectrally determined. We show that a family of trees of diameter 4 are determined by their spectrum.</p>
 	</convention>
 
 	<convention xml:id="contributed-talk-7a">
