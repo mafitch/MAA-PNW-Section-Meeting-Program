@@ -4,9 +4,49 @@
 <title>Abstracts: Contributed Talks</title>
 
 <subsection>
-	<title>Contributed Talk Abstracts</title>
+	<title>Contributed Talk: Friday Morning</title>
 
 	<convention xml:id="contributed-talk-1a">
+		<title>Your title here</title>
+		<p><dl>
+			<li><title>First Last</title> <p>University Name</p></li>
+		</dl></p>
+		<p>Abstract</p>
+	</convention>
+
+	<convention xml:id="contributed-talk-2a">
+		<title>Your title here</title>
+		<p><dl>
+			<li><title>First Last</title> <p>University Name</p></li>
+		</dl></p>
+		<p>Abstract</p>
+	</convention>
+
+	<convention xml:id="contributed-talk-3a">
+		<title>Your title here</title>
+		<p><dl>
+			<li><title>First Last</title> <p>University Name</p></li>
+		</dl></p>
+		<p>Abstract</p>
+	</convention>
+
+	<convention xml:id="contributed-talk-4a">
+		<title>Your title here</title>
+		<p><dl>
+			<li><title>First Last</title> <p>University Name</p></li>
+		</dl></p>
+		<p>Abstract</p>
+	</convention>
+
+	<convention xml:id="contributed-talk-5a">
+		<title>Your title here</title>
+		<p><dl>
+			<li><title>First Last</title> <p>University Name</p></li>
+		</dl></p>
+		<p>Abstract</p>
+	</convention>
+
+	<convention xml:id="contributed-talk-6a">
 		<title>Your title here</title>
 		<p><dl>
 			<li><title>First Last</title> <p>University Name</p></li>
@@ -23,14 +63,6 @@
 		<p>Mosaic Knot theory is a field where mathematical knots are placed on grid diagrams called mosaics. This was established by Dr. Lomonaco and Dr. Kauffman in <em>Quantum Knots and Mosaics</em>. In this work, we place improved lower and upper bounds on the size of a mosaic given only its crossing number or using crossing, braid index, and braid length. This is carried out by constructing an arbitrary diagram of a braid on a mosaic.</p>
 	</convention>
 
-	<convention xml:id="contributed-talk-2a">
-		<title>Your title here</title>
-		<p><dl>
-			<li><title>First Last</title> <p>University Name</p></li>
-		</dl></p>
-		<p>Abstract</p>
-	</convention>
-
 	<convention xml:id="contributed-talk-2b">
 		<title>The Weighted Spanning Tree Enumerator of Multi-Partite Graphs</title>
 		<p><dl>
@@ -38,14 +70,6 @@
 			<li><title>Peter Otto</title> <p>Willamette University</p></li>
 		</dl></p>
 		<p>The weighted spanning tree enumerator (WSTE) is the sum of weights of all spanning trees of a graph.  A recent result expressed the WSTE of multi-partite graphs in terms of the WSTE of its partition graph, which greatly simplifies the computation of the WSTE of the original graph.  The proof to this result is algebraic, using the Weighted Matrix Tree Theorem.  In this talk, we will present the new result and the work we have done in deriving a graph theoretic justification for the result. </p>
-	</convention>
-
-	<convention xml:id="contributed-talk-3a">
-		<title>Your title here</title>
-		<p><dl>
-			<li><title>First Last</title> <p>University Name</p></li>
-		</dl></p>
-		<p>Abstract</p>
 	</convention>
 
 	<convention xml:id="contributed-talk-3b">
@@ -59,14 +83,6 @@
 		<p>We develop new geometric spaces by blending the half-plane model for the hyperbolic plane with taxicab geometry. Starting with a taxicab norm on each tangent space, the lengths of curves are analyzed, allowing us to determine geodesics, and from these, a distance function. Then we show that these spaces are hyperbolic in the sense of Gromov.</p>
 	</convention>
 
-	<convention xml:id="contributed-talk-4a">
-		<title>Your title here</title>
-		<p><dl>
-			<li><title>First Last</title> <p>University Name</p></li>
-		</dl></p>
-		<p>Abstract</p>
-	</convention>
-
 	<convention xml:id="contributed-talk-4b">
 		<title>Applying Topological Data Analysis to Baseball Analytics: What Persistent Homology Says About the Need for Diverse Offensive Skill Sets</title>
 		<p><dl>
@@ -74,14 +90,6 @@
 			<li><title>Thomas Shifley</title> <p>George Fox University</p></li>
 		</dl></p>
 		<p>Traditional baseball wisdom says that a batting lineup composed of players with very diverse offensive skill sets will produce more runs than one composed of similar players (all other factors being equal). However, very little has been done to empirically validate or challenge this theory, partially due to a lack of tools worthy of answering the question. Within the emerging mathematical field of Topology, a computational tool in Topological Data Analysis (TDA) called Persistent Homology presents a robust method for measuring the diversity of a dataset. Using historical data from Major League Baseball teams and a python script designed to calculate the diversity of a dataset at the H_0 and H_1 levels of Persistent Homology, this centuries-old question can be addressed in a meaningful way.</p>
-	</convention>
-
-	<convention xml:id="contributed-talk-5a">
-		<title>Your title here</title>
-		<p><dl>
-			<li><title>First Last</title> <p>University Name</p></li>
-		</dl></p>
-		<p>Abstract</p>
 	</convention>
 
 	<convention xml:id="contributed-talk-5b">
@@ -92,14 +100,6 @@
 			<li><title>Peter Otto</title> <p>Willamette University</p></li>
 		</dl></p>
 		<p>The Steele Polynomial is a graph polynomial that arises in the study of minimal spanning trees and gives insights about the connectedness of the graph. In this talk, we present our research on the behavior of the limits of zeroes in the complex plane of the Steele polynomial for various infinite sequences of graphs. Our results use a recent generalization of the Beraha-Kahane-Weiss theorem that extends to the case of repeated roots of the characteristic polynomial of the recursion relationship satisfied by the Steele Polynomials. </p>
-	</convention>
-
-	<convention xml:id="contributed-talk-6a">
-		<title>Your title here</title>
-		<p><dl>
-			<li><title>First Last</title> <p>University Name</p></li>
-		</dl></p>
-		<p>Abstract</p>
 	</convention>
 
 	<convention xml:id="contributed-talk-6b">
@@ -117,7 +117,54 @@
 		<p>There is an open conjecture that trees, for their distance Laplacian matrices, do not have a cospectral mate and are therefore spectrally determined. We show that a family of trees of diameter 4 are determined by their spectrum.</p>
 	</convention>
 
-	<convention xml:id="contributed-talk-7a">
+	<convention xml:id="contributed-talk-1d">
+		<title>Sangaku (Sangacool) Geometry</title>
+		<p><dl>
+			<li><title>Ariana Torres</title> <p>University of Washington Tacoma</p></li>
+		</dl></p>
+		<p><foreign>Sangaku</foreign> is a unique mathematical sub-branch of geometry and Japanese mathematics <foreign>wasan</foreign>. This topic stands out due to its mathematical results and its prevalence in the Edo period. This paper aims to provide the reader with a general overview of the history and mathematics of wasan and sangaku, along with an understanding of the Gion shrine problem (a famously difficult sangaku). We begin by covering historical factors that influenced the trajectory of Japanese mathematics. Following that, we describe several impressive results stemming from wasan that Japan developed independently from contemporary cultures. We then describe what sangaku is and its history, while providing several visual examples. Finally, we introduce and analyze a solution of the Gion shrine problem, whose original solution was supposedly a 1,024 degree polynomial, but eventually a 10th degree polynomial solution was found.</p>
+	</convention>
+
+	<convention xml:id="contributed-talk-2d">
+		<title>How to Steal an Election</title>
+		<p><dl>
+			<li><title>David Luna Guitron</title> <p>Pacific Lutheran Univeristy</p></li>
+		</dl></p>
+		<p>The United States holds the record for the longest standing democracy, but in this democracy, some representation is more representative than others. Gerrymandering refers to the manipulation of electoral district boundaries in order for political parties to maximize their political advantage in the House of Representatives. we study a simplified version of electoral maps via a grid-based puzzle commonly known as Gerrymandering Puzzles. These rectangular puzzles represent our states holding cells representing voters colored based on their political affiliation. The goal of the game is to draw contiguous regions along these voters in order to maximize the number of districts won by a chosen political party.</p>
+		<p>We examine how strategies analogous to real-world gerrymandering practices arise in the maximization of Gerrymandering Puzzles. We also explore what makes a valid Gerrymandering Puzzle through the analysis of the given specific puzzle dimensions, district size, and proportionality of political affiliation.</p>
+		<p>Finally, we investigate algorithmic approaches to constructing optimal districts with the use of combinatorics. These models provide a framework to understand the mechanisms and political games underlying the real-world applications of gerrymandering while also serving as an accessible educational tool for illustrating its effects.</p>
+	</convention>
+
+	<convention xml:id="contributed-talk-3d">
+		<title>Isomorphic to <m>\mathbb{C}</m></title>
+		<p><dl>
+			<li><title>Joseph Quenga</title> <p>Pacific Lutheran University</p></li>
+		</dl></p>
+		<p>As math students, we have all wondered about the set of all complex numbers, <m>\mathbb{C}</m>. In particular, we have all been amazed by the imaginary unit <m>i</m>, which we are first taught to be the square root of minus one, that is <m>i=\sqrt{-1}</m>. Later, we are taught that <m>i</m> is more carefully defined as the complex square root of <m>-1</m> with a minimum positive angular argument.</p>
+		<p>Algebraists, such as Galois, long searched for answers regarding the \textit{algebraic structures} of the real numbers <m>\mathbb{R}</m> and the complex numbers, <m>\mathbb{C}</m>. One particular question that arose was: How doe these structures relate to each other? The same questions of structural relationships can be extended beyond relating the complex numbers to the reals, exploring how the structure of the complex numbers can be approached in terms of structures such as groups, rings, and fields.</p>
+		<p>In this talk, we will explore some structures that are isomorphic to <m>\mathbb{C}</m>. We will provide an overview of some basic facts about structures in group theory and ring theory, and what isomorphism means in those contexts. We will emphasize the inter-workings between certain algebraic structures and the set of all complex numbers.</p>
+	</convention>
+
+	<convention xml:id="contributed-talk-4d">
+		<title>Convergence Values for Several Variants of the Tangent Inverse Series</title>
+		<p><dl>
+			<li><title>Stephen Hantzmon</title> <p>Western Oregon University</p></li>
+		</dl></p>
+		<p>This research was prompted by an introductory mathematics research focused class. Specifically, it involves series, infinite sums of numbers which may or may not add to finite ones. In this instance, we explore series that do in fact converge. To do so, we use an arctangent subtraction identity and telescoping properties of series, finding the specific convergence values of two arctangent series and attempt to generalize thrice; First successfully with a general arctangent series that converges to a real number in a bounded set, the second time unsuccessfully, and the third successfully with a general series that converges to any real number in a real, unbounded function.</p>
+	</convention>
+
+	<convention xml:id="contributed-talk-5d">
+		<title>Dancing With the Stars Voting Systems</title>
+		<p><dl>
+			<li><title>Skylar McLeod</title> <p>Linfield University</p></li>
+			<li><title>Claire Heitman</title> <p>Linfield University, Undergrad</p></li>
+			<li><title>Devin Doherty</title> <p>Linfield University, Undergrad</p></li>
+			<li><title>Mike Hitchman</title> <p>Linfield University</p></li>
+		</dl></p>
+		<p>The show Dancing With The Stars (DWTS) has gone through many changes to the way it combines judge scores and fan voting to decide which couple to eliminate each week. The show is in need of a fair voting system that still allows for fan votes to contribute to the results in a meaningful way. We took a look at the different voting systems the show has used in the past and attempted to understand how the fan votes contribute in order to build our own voting system that is fairer to the contestants. Afterwards, we used our model to analyze outside factors such as which pro dancers were with each celebrity, the gender of the dancers, and the effect of social media.</p>
+	</convention>
+
+	<convention xml:id="contributed-talk-1e">
 		<title>Your title here</title>
 		<p><dl>
 			<li><title>First Last</title> <p>University Name</p></li>
@@ -125,7 +172,52 @@
 		<p>Abstract</p>
 	</convention>
 
-	<convention xml:id="contributed-talk-7b">
+	<convention xml:id="contributed-talk-2e">
+		<title>Your title here</title>
+		<p><dl>
+			<li><title>First Last</title> <p>University Name</p></li>
+		</dl></p>
+		<p>Abstract</p>
+	</convention>
+
+	<convention xml:id="contributed-talk-3e">
+		<title>Your title here</title>
+		<p><dl>
+			<li><title>First Last</title> <p>University Name</p></li>
+		</dl></p>
+		<p>Abstract</p>
+	</convention>
+
+	<convention xml:id="contributed-talk-4e">
+		<title>Your title here</title>
+		<p><dl>
+			<li><title>First Last</title> <p>University Name</p></li>
+		</dl></p>
+		<p>Abstract</p>
+	</convention>
+
+	<convention xml:id="contributed-talk-5e">
+		<title>Your title here</title>
+		<p><dl>
+			<li><title>First Last</title> <p>University Name</p></li>
+		</dl></p>
+		<p>Abstract</p>
+	</convention>
+
+	<convention xml:id="contributed-talk-6e">
+		<title>Your title here</title>
+		<p><dl>
+			<li><title>First Last</title> <p>University Name</p></li>
+		</dl></p>
+		<p>Abstract</p>
+	</convention>
+
+</subsection>
+
+<subsection>
+	<title>Contributed Talk: Friday Afternoon</title>
+
+	<convention xml:id="contributed-talk-7a">
 		<title>Your title here</title>
 		<p><dl>
 			<li><title>First Last</title> <p>University Name</p></li>
@@ -141,23 +233,7 @@
 		<p>Abstract</p>
 	</convention>
 
-	<convention xml:id="contributed-talk-8b">
-		<title>Your title here</title>
-		<p><dl>
-			<li><title>First Last</title> <p>University Name</p></li>
-		</dl></p>
-		<p>Abstract</p>
-	</convention>
-
 	<convention xml:id="contributed-talk-9a">
-		<title>Your title here</title>
-		<p><dl>
-			<li><title>First Last</title> <p>University Name</p></li>
-		</dl></p>
-		<p>Abstract</p>
-	</convention>
-
-	<convention xml:id="contributed-talk-9b">
 		<title>Your title here</title>
 		<p><dl>
 			<li><title>First Last</title> <p>University Name</p></li>
@@ -173,23 +249,7 @@
 		<p>Abstract</p>
 	</convention>
 
-	<convention xml:id="contributed-talk-10b">
-		<title>Your title here</title>
-		<p><dl>
-			<li><title>First Last</title> <p>University Name</p></li>
-		</dl></p>
-		<p>Abstract</p>
-	</convention>
-
 	<convention xml:id="contributed-talk-11a">
-		<title>Your title here</title>
-		<p><dl>
-			<li><title>First Last</title> <p>University Name</p></li>
-		</dl></p>
-		<p>Abstract</p>
-	</convention>
-
-	<convention xml:id="contributed-talk-11b">
 		<title>Your title here</title>
 		<p><dl>
 			<li><title>First Last</title> <p>University Name</p></li>
@@ -205,7 +265,7 @@
 		<p>Abstract</p>
 	</convention>
 
-	<convention xml:id="contributed-talk-12b">
+	<convention xml:id="contributed-talk-13a">
 		<title>Your title here</title>
 		<p><dl>
 			<li><title>First Last</title> <p>University Name</p></li>
@@ -213,7 +273,47 @@
 		<p>Abstract</p>
 	</convention>
 
-	<convention xml:id="contributed-talk-13a">
+	<convention xml:id="contributed-talk-7b">
+		<title>Your title here</title>
+		<p><dl>
+			<li><title>First Last</title> <p>University Name</p></li>
+		</dl></p>
+		<p>Abstract</p>
+	</convention>
+
+	<convention xml:id="contributed-talk-8b">
+		<title>Your title here</title>
+		<p><dl>
+			<li><title>First Last</title> <p>University Name</p></li>
+		</dl></p>
+		<p>Abstract</p>
+	</convention>
+
+	<convention xml:id="contributed-talk-9b">
+		<title>Your title here</title>
+		<p><dl>
+			<li><title>First Last</title> <p>University Name</p></li>
+		</dl></p>
+		<p>Abstract</p>
+	</convention>
+
+	<convention xml:id="contributed-talk-10b">
+		<title>Your title here</title>
+		<p><dl>
+			<li><title>First Last</title> <p>University Name</p></li>
+		</dl></p>
+		<p>Abstract</p>
+	</convention>
+
+	<convention xml:id="contributed-talk-11b">
+		<title>Your title here</title>
+		<p><dl>
+			<li><title>First Last</title> <p>University Name</p></li>
+		</dl></p>
+		<p>Abstract</p>
+	</convention>
+
+	<convention xml:id="contributed-talk-12b">
 		<title>Your title here</title>
 		<p><dl>
 			<li><title>First Last</title> <p>University Name</p></li>
@@ -227,6 +327,112 @@
 			<li><title>First Last</title> <p>University Name</p></li>
 		</dl></p>
 		<p>Abstract</p>
+	</convention>
+
+	<convention xml:id="contributed-talk-7c">
+		<title>Your title here</title>
+		<p><dl>
+			<li><title>First Last</title> <p>University Name</p></li>
+		</dl></p>
+		<p>Abstract</p>
+	</convention>
+
+	<convention xml:id="contributed-talk-8c">
+		<title>Your title here</title>
+		<p><dl>
+			<li><title>First Last</title> <p>University Name</p></li>
+		</dl></p>
+		<p>Abstract</p>
+	</convention>
+
+	<convention xml:id="contributed-talk-9c">
+		<title>Your title here</title>
+		<p><dl>
+			<li><title>First Last</title> <p>University Name</p></li>
+		</dl></p>
+		<p>Abstract</p>
+	</convention>
+
+	<convention xml:id="contributed-talk-10c">
+		<title>Your title here</title>
+		<p><dl>
+			<li><title>First Last</title> <p>University Name</p></li>
+		</dl></p>
+		<p>Abstract</p>
+	</convention>
+
+	<convention xml:id="contributed-talk-11c">
+		<title>Your title here</title>
+		<p><dl>
+			<li><title>First Last</title> <p>University Name</p></li>
+		</dl></p>
+		<p>Abstract</p>
+	</convention>
+
+	<convention xml:id="contributed-talk-12c">
+		<title>Your title here</title>
+		<p><dl>
+			<li><title>First Last</title> <p>University Name</p></li>
+		</dl></p>
+		<p>Abstract</p>
+	</convention>
+
+	<convention xml:id="contributed-talk-13c">
+		<title>Your title here</title>
+		<p><dl>
+			<li><title>First Last</title> <p>University Name</p></li>
+		</dl></p>
+		<p>Abstract</p>
+	</convention>
+
+	<convention xml:id="contributed-talk-7d">
+		<title>Edge-Magic Labelings of Infinite Trees</title>
+		<p><dl>
+			<li><title>Charles Mazzola</title> <p>Central Catholic High School</p></li>
+			<li><title>Oscar Levin</title> <p>University of Northern Colorado</p></li>
+		</dl></p>
+		<p>An edge-magic labeling of a graph is an assignment of integers to the vertices and edges such that the sum of the labels on an edge and its vertices is constant throughout the graph. A long standing conjecture has been that all finite trees have an edge-magic labeling.</p>
+		<p>As often happens with graph labelings, the analogous question for <em>infinite</em> trees is easier to work with. For many classes of infinite trees, there is always an edge-magic labeling. However, in the case of infinite trees with only one vertex of infinite degree and only finitely many vertices not adjacent to it, the question becomes about a different sort of labeling of the finite parts of the graph, which appears to be difficult to classify.  In this talk we will share some initial work toward this goal.</p>
+	</convention>
+
+	<convention xml:id="contributed-talk-8d">
+		<title>Project UNSOLVED: Sharing Investigations of Unsolved Problems</title>
+		<p><dl>
+			<li><title>Nicole Wessman-Enzinger</title> <p>George Fox University</p></li>
+			<li><title>Students</title> <p>Veritas School in Newberg, Oregon</p></li>
+			<li><title>Sarah Kerrigan</title> <p>George Fox University</p></li>
+			<li><title>Nicole M. Enzinger</title> <p>George Fox University</p></li>
+		</dl></p>
+		<p>Project UNSOLVED is a seminar-style, elective mathematics class for middle and high schoolers that ran from August 2025 to March 2026. Co-teaching the course with two university professors and two undergraduate mathematics majors, the first part of the course introduced students to unsolved problems in mathematics through hands-on activities and exploration. In the second part of the course, students conducted a deep dive into a particular unsolved problem in mathematics that interested them. They explored the background of their problem and played with their problems. Many students conducted mini experiments related to their problem to conduct and collected data from. Students then analyzed their results and generated a poster sharing their work. This session will be run like lightning talks. We will project the poster and give the students 2-3 minutes to share what they did. For example, one group of students explored the illumination problem of lighting a room with a single light source and what shapes of rooms allow for this illumination. There will be time for questions from the audience. </p>
+	</convention>
+
+	<convention xml:id="contributed-talk-9d">
+		<title>Characteristics of the Cantor Set and Fat Cantor Set</title>
+		<p><dl>
+			<li><title>Elisabeth Oberst</title> <p>George Fox University</p></li>
+			<li><title>Tom Shifley</title> <p>George Fox University</p></li>
+		</dl></p>
+		<p>The Cantor set, named after the famed mathematician Georg Cantor, has many fascinating topological properties, such as being closed, nowhere dense, and uncountable. To construct the Cantor set, one begins by removing the middle open interval of size 1/3 from the closed interval [0,1]. Then, remove the middle open interval of the resulting two closed intervals. Repeating this process infinitely and taking the intersection of all iterations yields the Cantor set. In contrast, a fat Cantor set is constructed by removing the middle open interval of a size smaller than 1/3. Although fat Cantor sets have many of the same properties as standard Cantor sets, there are surprising differences. This presentation introduces the construction and properties of the Cantor set and a fat Cantor set, and briefly explores their applications.</p>
+	</convention>
+
+	<convention xml:id="contributed-talk-10d">
+		<title>Discontinuity</title>
+		<p><dl>
+			<li><title>Mason McBride</title> <p>George Fox University</p></li>
+			<li><title>Tom Shifley</title> <p>George Fox University</p></li>
+		</dl></p>
+		<p>Not all functions are continuous. Classic examples include functions that jump or behave differently on rationals and irrationals. For instance, Dirichlet’s function is discontinuous everywhere, but small modifications can make it continuous at a single point, showing how continuity can be adjusted.</p>
+		<p>We can go further. Thomae's function is continuous at every irrational number but discontinuous at every rational number, showing that discontinuities can be dense yet structured.</p>
+		<p>This leads to the deeper question: how complicated can the set of discontinuities be? The key result is that for any function, the set of discontinuities is an <m>F_\sigma</m> set, meaning it can be written as a countable union of closed sets. However, not every subset of <m>\mathbb{R}</m> has this form, for example, the irrationals do not, highlighting a fundamental limitation and guiding the study of discontinuity.</p>
+	</convention>
+
+	<convention xml:id="contributed-talk-11d">
+		<title>Peculiarities of Connectedness in the Topologist's Sine Curve</title>
+		<p><dl>
+			<li><title>Derek So</title> <p>George Fox University</p></li>
+			<li><title>Tom Shifley</title> <p>George Fox University</p></li>
+		</dl></p>
+		<p>The topologist's sine curve is a well known function that shows us the differences between Path connectedness and connectedness. Intuition at first might have us believe these two concepts may often seem to say the same thing, that a space is one piece. The topologist's sine curve however, shows us that they are in fact two different ways to understand what it means to be one piece. An interesting problem that shows us the importance of path connectedness and connectedness is Smale's Paradox. Smale's Paradox, that a sphere can turn inside out in a 3D space through continuous deformation, allowing self-intersections but no creases, tears, or punctures, finds that connectedness and local path connectedness in this case leads to path-connectedness. This is what allows us to resolve the paradox. When looking at cases such as the topologist's sine curve and Smale's Paradox, we see how important understanding definitions and their applications can often deepen our understanding and allow us to solve problems that may intuitively seem impossible.</p>
 	</convention>
 
 </subsection>
