@@ -13,6 +13,7 @@
 
         <xi:include href="./schedule_friday.ptx" />       <!-- Schedule Friday -->
         <xi:include href="./schedule_saturday.ptx" />       <!-- Schedule Saturday -->
+        <xi:include href="./schedule_contributed.ptx" />       <!-- Schedule Saturday contributed talks -->
     </chapter>
 
     <chapter xml:id="chapter-abstracts" xmlns:xi="http://www.w3.org/2001/XInclude">
