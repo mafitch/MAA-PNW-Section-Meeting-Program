@@ -16,7 +16,16 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.2",
   "title": "Saturday, April 18",
-  "body": " Saturday, April 18  Morning Contributed Talks        Contributed Talks 1   Applied Mathematics      Room 1  Room 2    10:15-10:30      10:35-10:50      10:55-11:10      11:15-11:30      11:35-11:50      11:55-12:10               Student Session   Innovation in Teaching      Room 4  Room 5    10:15-10:30      10:35-10:50      10:55-11:10      11:15-11:30      11:35-11:50      11:55-12:10  Unscheduled        Afternoon Contributed Talks        Recreational Math   Undergraduate Research      Room 1  Room 2    3:15-3:30      3:35-3:50      3:50-4:05      4:10-4:25      4:30-4:45      4:50-5:05      5:10-5:25            Differential Equations   Student Session      Room 3  Room 4    3:15-3:30      3:35-3:50      3:50-4:05      4:10-4:25      4:30-4:45      4:50-5:05   Unscheduled    5:10-5:25   Unscheduled          Another Session   General Session      Room 3  Room 4    3:15-3:30      3:35-3:50      3:50-4:05      4:10-4:25      4:30-4:45      4:50-5:05      5:10-5:25      "
+  "body": " Saturday, April 18         Time  Event  Title  Presenter  Location    7:30 - 8:30  Executive Meeting      Presidents’ Dining Room, Dillin Hall    8:00  Registration      Keck Atrium    9:00  Welcome Address    Dr. Mark Blegen, President of Linfield University  Graf 120    9:00-10:00  Invited Address  Mathematics and Community Engagement  Dr. Lisa Marano  Graf 120    10:15-12:10  Contributed Talks      Various    12:15-1:45  Lunch      Keck Atrium    12:15-1:45  Business Meeting      Graf 111    2:00  Invited Address  Multiplex juggling sequences and Kostant’s partition function  Dr. Pamela E. Harris  Graf 120    3:15-5:30  Contributed Talks      Various    6:00  Social Reception      Keck Atrium    7:00  Section Awards Ceremony      Graf 120    7:30  Invited Address  Juggling Counts  Dr. Steve Butler  Graf 120    "
+},
+{
+  "id": "section-schedule-contributed",
+  "level": "1",
+  "url": "section-schedule-contributed.html",
+  "type": "Section",
+  "number": "1.3",
+  "title": "Contributed Talks",
+  "body": " Contributed Talks  Saturday Morning Contributed Talks        Contributed Talks 1   Applied Mathematics      Room 1  Room 2    10:15-10:30      10:35-10:50      10:55-11:10      11:15-11:30      11:35-11:50      11:55-12:10               Student Session   Innovation in Teaching      Room 4  Room 5    10:15-10:30      10:35-10:50      10:55-11:10      11:15-11:30      11:35-11:50      11:55-12:10  Unscheduled        Afternoon Contributed Talks        Recreational Math   Undergraduate Research      Room 1  Room 2    3:15-3:30      3:35-3:50      3:50-4:05      4:10-4:25      4:30-4:45      4:50-5:05      5:10-5:25            Differential Equations   Student Session      Room 3  Room 4    3:15-3:30      3:35-3:50      3:50-4:05      4:10-4:25      4:30-4:45      4:50-5:05   Unscheduled    5:10-5:25   Unscheduled          Another Session   General Session      Room 3  Room 4    3:15-3:30      3:35-3:50      3:50-4:05      4:10-4:25      4:30-4:45      4:50-5:05      5:10-5:25      "
 },
 {
   "id": "section-abstracts-contributed",
