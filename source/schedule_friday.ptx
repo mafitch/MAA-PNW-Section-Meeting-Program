@@ -1,8 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="section-schedule-friday" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Contributed Talks Friday, 17th April</title>
+  <title>Friday, April 17</title>
 
-  <p> Text of section. </p>
+<tabular valign="top"  break="yes" >
+  <col width="10%" />
+  <col width="10%" />
+  <col width="25%" />
+  <col width="25%" />
+  <col width="15%" />
+  <row bottom="medium">
+    <cell>Time</cell>
+    <cell>Event</cell>
+    <cell>Title</cell>
+    <cell>Presenter</cell>
+    <cell>Location</cell>
+  </row>
+  <row>
+    <cell>7:45</cell>
+    <cell>Packet Pickup</cell>
+    <cell> </cell>
+    <cell> </cell>
+    <cell>Jonasson Hall in Melrose</cell>
+  </row>
+  <row>
+    <cell>8:00 - 2:30</cell>
+    <cell>PNW Section NExT Meeting</cell>
+    <cell> </cell>
+    <cell> </cell>
+    <cell>Jonasson Hall in Melrose</cell>
+  </row>
+  <row>
+    <cell>3:00 - 5:30</cell>
+    <cell>Minicourse</cell>
+    <cell>Creating Accessible and Interactive Materials</cell>
+    <cell>Dr. Oscar Levin</cell>
+    <cell>Graf 111</cell>
+  </row>
+  <row>
+    <cell>3:00 - 5:30</cell>
+    <cell>Minicourse</cell>
+    <cell>Revising Course Syllabi for Proficiency: Standards‑ and Specifications‑Based Approaches</cell>
+    <cell>Dr. Lisa Marano</cell>
+    <cell>Graf 117</cell>
+  </row>
+  <row>
+    <cell>6:00</cell>
+    <cell>Section NExT Dinner</cell>
+    <cell> </cell>
+    <cell> </cell>
+    <cell>Dave's Station</cell>
+  </row>
+  <row>
+    <cell>6:45</cell>
+    <cell>Registration</cell>
+    <cell> </cell>
+    <cell> </cell>
+    <cell>Jonasson Hall in Melrose</cell>
+  </row>
+  <row>
+    <cell>6:00 - 7:30</cell>
+    <cell>Games and Gathering</cell>
+    <cell> </cell>
+    <cell>Hosted by the Linfield EPiC! Math Club</cell>
+    <cell>Jonasson Hall in Melrose</cell>
+  </row>
+  <row>
+    <cell>7:30</cell>
+    <cell>Invited Address</cell>
+    <cell>Every Game I’m Shufflin’, Shufflin’</cell>
+    <cell>Dr. Steve Butler</cell>
+    <cell>Nicholson Library (open to the public)</cell>
+  </row>
+</tabular>
 
 </section>
