@@ -11,13 +11,13 @@
     <col width="40%" />
     <row>
       <cell><nbsp/></cell>
-      <cell right="medium"><em>Contributed Talks 1</em> </cell>
-      <cell><em>Applied Mathematics</em> </cell>
+      <cell right="medium"><em>Panels</em> </cell>
+      <cell><em>Student Special Session: Undergraduate Research</em> </cell>
     </row>
     <row>
       <cell><nbsp/></cell>
-      <cell right="medium">Room 1 </cell>
-      <cell>Room 2 </cell>
+      <cell right="medium">Graf 124</cell>
+      <cell>Graf 117</cell>
     </row>
     <row>
       <cell>10:15-10:30</cell>
@@ -26,12 +26,12 @@
     </row>
     <row>
       <cell>10:35-10:50</cell>
-      <cell right="medium"><p><xref ref="contributed-talk-2a" text="title" /></p></cell>
+      <cell right="medium"><p>Continued</p></cell>
       <cell><p><xref ref="contributed-talk-2b" text="title" /></p></cell>
     </row>
     <row>
       <cell>10:55-11:10</cell>
-      <cell right="medium"><p><xref ref="contributed-talk-3a" text="title" /></p></cell>
+      <cell right="medium"><p>Continued</p></cell>
       <cell><p><xref ref="contributed-talk-3b" text="title" /></p></cell>
     </row>
     <row>
@@ -41,12 +41,12 @@
     </row>
     <row>
       <cell>11:35-11:50</cell>
-      <cell right="medium"><p><xref ref="contributed-talk-5a" text="title" /></p></cell>
+      <cell right="medium"><p>Continued</p></cell>
       <cell><p><xref ref="contributed-talk-5b" text="title" /></p></cell>
     </row>
     <row>
       <cell>11:55-12:10</cell>
-      <cell right="medium"><p><xref ref="contributed-talk-6a" text="title" /></p></cell>
+      <cell right="medium"><p>Continued</p></cell>
       <cell><p><xref ref="contributed-talk-6b" text="title" /></p></cell>
     </row>
     <row>
@@ -60,13 +60,13 @@
     <col width="40%" />
     <row>
       <cell><nbsp/></cell>
-      <cell right="medium"><em>Student Session</em> </cell>
-      <cell><em>Innovation in Teaching</em> </cell>
+      <cell right="medium"><em>Student Special Session: Student Work from Competitions or Class Projects</em> </cell>
+      <cell><em>Special Session: Innovation in Teaching and Learning in Undergraduate Mathematics</em> </cell>
     </row>
     <row>
       <cell><nbsp/></cell>
-      <cell right="medium">Room 4 </cell>
-      <cell>Room 5 </cell>
+      <cell right="medium">Graf 118</cell>
+      <cell>Graf 126</cell>
     </row>
     <row>
       <cell>10:15-10:30</cell>
@@ -95,7 +95,7 @@
     </row>
     <row>
       <cell>11:55-12:10</cell>
-      <cell right="medium"><p>Unscheduled</p></cell>
+      <cell right="medium"><p><xref ref="contributed-talk-6d" text="title" /></p></cell>
       <cell><p><xref ref="contributed-talk-6e" text="title" /></p></cell>
     </row>
     <row>

@@ -7,51 +7,27 @@
 	<title>Contributed Talk: Friday Morning</title>
 
 	<convention xml:id="contributed-talk-1a">
-		<title>Your title here</title>
+		<title>Advocacy and Public Scholarship</title>
 		<p><dl>
-			<li><title>First Last</title> <p>University Name</p></li>
+			<li><title>Cristina Negoita</title> <p>Oregon Institute of Technology, Organizer</p></li>
+			<li><title>Brandy Wiegers</title> <p>College of Idaho</p></li>
+			<li><title>Lisa Marano</title> <p>West Chester University, Panelist</p></li>
+			<li><title>Steve Butler</title> <p>Iowa State University, Panelist</p></li>
+			<li><title>Kate Lorenzen</title> <p>Linfield University, Panelist</p></li>
 		</dl></p>
-		<p>Abstract</p>
-	</convention>
-
-	<convention xml:id="contributed-talk-2a">
-		<title>Your title here</title>
-		<p><dl>
-			<li><title>First Last</title> <p>University Name</p></li>
-		</dl></p>
-		<p>Abstract</p>
-	</convention>
-
-	<convention xml:id="contributed-talk-3a">
-		<title>Your title here</title>
-		<p><dl>
-			<li><title>First Last</title> <p>University Name</p></li>
-		</dl></p>
-		<p>Abstract</p>
+		<p>This panel will highlight the ways we can bring our expertise off campus and advocate for mathematics and education more broadly in both regional and national settings. Building off Dr. Marano's morning presentation, this panel will begin with a presentation on opportunities for national advocacy with groups like AAAS, followed by a discussion of state-based local policy fellowships. Then, we hope to have speakers present more public scholarship, describing how they use mathematical and data science skills to analyze and provide summaries shared with campuses or regional communities to better understand the state of the world.</p>
 	</convention>
 
 	<convention xml:id="contributed-talk-4a">
-		<title>Your title here</title>
+		<title>CURM and Supporting Undergraduate Research</title>
 		<p><dl>
-			<li><title>First Last</title> <p>University Name</p></li>
+			<li><title>Nancy Ann Neudauer</title> <p>Pacific University and Center for Undergraduate Research in Mathematics (CURM), Organizer</p></li>
+			<li><title>Nicole Seaders</title> <p>Linn Benton Community College, Panelist</p></li>
+			<li><title>Samuel Cook</title> <p>University of Alaska Anchorage, Panelist</p></li>
+			<li><title>Eli Goldwyn</title> <p>University of Portland, Panelist</p></li>
 		</dl></p>
-		<p>Abstract</p>
-	</convention>
-
-	<convention xml:id="contributed-talk-5a">
-		<title>Your title here</title>
-		<p><dl>
-			<li><title>First Last</title> <p>University Name</p></li>
-		</dl></p>
-		<p>Abstract</p>
-	</convention>
-
-	<convention xml:id="contributed-talk-6a">
-		<title>Your title here</title>
-		<p><dl>
-			<li><title>First Last</title> <p>University Name</p></li>
-		</dl></p>
-		<p>Abstract</p>
+		<p>Getting started with undergraduate research can seem daunting, both for faculty and students.  The Center for Undergraduate Research in Mathematics (CURM) funds mini-grants for undergraduate research groups and provides supportive, scaffolded research mentoring to get started including how to promote effective collaborations, how to support and affirm students of all backgrounds, and how to select a good research project for even early-career students.  This panel will feature faculty who have received CURM mini-grants and others who have been involved in undergraduate research.</p>
+		<p>As a high-impact practice, undergraduate research experiences help students clarify their career interests and post-graduate plans and foster a sense of belonging by building a learning community with peers and mentors. Studies show that when research experiences are earlier in the academic career, they are more likely to ignite an interest in STEM, which is key for students who may not enter college seeing themselves as successful STEM students. Evidence suggests a pronounced effect of high-impact practices on the experiences of underserved students. In addition, research experiences enhance students' resumes and also prepare them with transferable skills that are valued by employers (independence as well as team-working, critical thinking, problem-solving, time management, communication, and tech skills, among others), making them more competitive in the job market.</p>
 	</convention>
 
 	<convention xml:id="contributed-talk-1b">
@@ -162,6 +138,15 @@
 			<li><title>Mike Hitchman</title> <p>Linfield University</p></li>
 		</dl></p>
 		<p>The show Dancing With The Stars (DWTS) has gone through many changes to the way it combines judge scores and fan voting to decide which couple to eliminate each week. The show is in need of a fair voting system that still allows for fan votes to contribute to the results in a meaningful way. We took a look at the different voting systems the show has used in the past and attempted to understand how the fan votes contribute in order to build our own voting system that is fairer to the contestants. Afterwards, we used our model to analyze outside factors such as which pro dancers were with each celebrity, the gender of the dancers, and the effect of social media.</p>
+	</convention>
+
+	<convention xml:id="contributed-talk-6d">
+		<title>Using Machine Learning to Predict the Men's March Madness Tournament Bracket</title>
+		<p><dl>
+			<li><title>Zach	Winter</title> <p>Pacific Univerity</p></li>
+			<li><title>Chris Lane</title> <p>Pacific University</p></li>
+		</dl></p>
+		<p>We will predict men's and women's brackets for March Madness using multiple machine learning algorithms including random forests, gradient descent, long-short term memory, and multi-layered perceptrons.  By combining data from both Kaggle's March Machine Learning Mania and KenPom's season stats, we create a comprehensive dataset that we use to accurately predict the ideal bracket using the Brier score as our metric.</p>
 	</convention>
 
 	<convention xml:id="contributed-talk-1e">
