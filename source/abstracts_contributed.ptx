@@ -320,7 +320,7 @@
 		<p>Abstract</p>
 	</convention>
 
-	<convention xml:id="contributed-talk-7c">
+	<convention xml:id="contributed-talk-7e">
 		<title>Interactions between cancer and non cancer stem cells</title>
 		<p><dl>
 			<li><title>Elyssa Amann</title> <p>George Fox University</p></li>
@@ -329,7 +329,7 @@
 		<p>Despite being the top concentration of medical research worldwide, little is known about the origin and progression of cancer. Characterized by abnormal and uncontrolled reproduction of cells, cancer is one of the deadliest diseases faced by modern medicine. In this talk, we form differential equation models to describe the growth rates of various types of healthy and cancerous cells in a tumor founded on the cancer stem cell (CSC) hypothesis. In this assumption of growth dynamics, a small population of CSCs primarily drive tumor growth, while the bulk of the tumor is made up of their progeny, nonCSCs (differentiated cancer cells). We propose three stratified models to test this hypothesis and analyze these dynamical systems for bifurcation over biologically realistic ranges for each variable in order to describe the interaction between both healthy and cancerous stem and differentiated cells. The first model describes growth coming solely from the CSCs, whereas the second further includes growth from nonCSCs as well as their death rate, and the third extends to include interactions with healthy stem and differentiated cells. We will discuss the results of analyzing these models, their biological implications, and future research possibilities.</p>
 	</convention>
 
-	<convention xml:id="contributed-talk-8c">
+	<convention xml:id="contributed-talk-8e">
 		<title>Fourier Analysis and its Applications</title>
 		<p><dl>
 			<li><title>Nora Kearsley</title> <p>Benson Polytechnic High School</p></li>
@@ -337,7 +337,7 @@
 		<p>Be it light, sound, seismic events, even the very subatomic particles composing matter, our reality is fundamentally underpinned by the mathematical structure of waves. In this talk, I explore one of the most valuable tools we have for making sense of these waves; Fourier Analysis. I start by defining the Fourier transform in an abstract sense as a tool to decompose a function into component sinusoids, then use the orthogonality of sine and cosine to define it rigorously on real functions, before using Euler's formula to extend this definition to complex functions. I provide and explain evocative demonstrations of various functions decomposed into their component complex sinusoids in the form of assorted Manim animations, as well as a physical model composed of 3D printed gear mechanisms acting as said sinusoids. I then discuss further applications of Fourier Analysis, including its application in many PDEs, deconvolution, seismology, signal processing, file compression, and its role in the derivation of Heisenberg's uncertainty principle.</p>
 	</convention>
 
-	<convention xml:id="contributed-talk-9c">
+	<convention xml:id="contributed-talk-9e">
 		<title>From Beats to Boundary Conditions: A 7th Grader’s Musical Journey Through Fourier, Orthogonality, and PDEs</title>
 		<p><dl>
 			<li><title>Solomon Methvin</title> <p>University Name</p></li>
@@ -347,7 +347,7 @@
 		<p>Using audio demonstrations and mathematical framing, this talk reveals how the superposition principle and orthogonality underpin both the analysis of sound and the structure of PDE solutions, highlighting a shared mathematical language across music, vibration, and diffusion.</p>
 	</convention>
 
-	<convention xml:id="contributed-talk-10c">
+	<convention xml:id="contributed-talk-10e">
 		<title>Interpreting Stokes’ Theorem on Manifolds via Differential Geometry</title>
 		<p><dl>
 			<li><title>Perawit Boonsomchua</title> <p>Edmonds College</p></li>
@@ -356,7 +356,7 @@
 		<p>In this talk, the author demonstrates the generalized Stokes' Theorem in higher dimensions through a mathematical physics perspective. Additionally, we consider how differential geometry on abstract mathematical spaces shapes our understanding of Stokes' Theorem through rigorous mathematical proof. Then, we aim to visualize these ideas, leading to a discussion on further directions in this mathematical and frontier physics study.</p>
 	</convention>
 
-	<convention xml:id="contributed-talk-11c">
+	<convention xml:id="contributed-talk-11e">
 		<title>Your title here</title>
 		<p><dl>
 			<li><title>First Last</title> <p>University Name</p></li>
@@ -364,7 +364,7 @@
 		<p>Abstract</p>
 	</convention>
 
-	<convention xml:id="contributed-talk-12c">
+	<convention xml:id="contributed-talk-12e">
 		<title>Your title here</title>
 		<p><dl>
 			<li><title>First Last</title> <p>University Name</p></li>
@@ -372,7 +372,7 @@
 		<p>Abstract</p>
 	</convention>
 
-	<convention xml:id="contributed-talk-13c">
+	<convention xml:id="contributed-talk-13e">
 		<title>Your title here</title>
 		<p><dl>
 			<li><title>First Last</title> <p>University Name</p></li>
@@ -430,62 +430,6 @@
 		<p>The topologist's sine curve is a well known function that shows us the differences between Path connectedness and connectedness. Intuition at first might have us believe these two concepts may often seem to say the same thing, that a space is one piece. The topologist's sine curve however, shows us that they are in fact two different ways to understand what it means to be one piece. An interesting problem that shows us the importance of path connectedness and connectedness is Smale's Paradox. Smale's Paradox, that a sphere can turn inside out in a 3D space through continuous deformation, allowing self-intersections but no creases, tears, or punctures, finds that connectedness and local path connectedness in this case leads to path-connectedness. This is what allows us to resolve the paradox. When looking at cases such as the topologist's sine curve and Smale's Paradox, we see how important understanding definitions and their applications can often deepen our understanding and allow us to solve problems that may intuitively seem impossible.</p>
 	</convention>
 
-	<convention xml:id="contributed-talk-7e">
-		<title>Your title here</title>
-		<p><dl>
-			<li><title>First Last</title> <p>University Name</p></li>
-		</dl></p>
-		<p>Abstract</p>
-	</convention>
-
-	<convention xml:id="contributed-talk-8e">
-		<title>Your title here</title>
-		<p><dl>
-			<li><title>First Last</title> <p>University Name</p></li>
-		</dl></p>
-		<p>Abstract</p>
-	</convention>
-
-	<convention xml:id="contributed-talk-9e">
-		<title>Your title here</title>
-		<p><dl>
-			<li><title>First Last</title> <p>University Name</p></li>
-		</dl></p>
-		<p>Abstract</p>
-	</convention>
-
-	<convention xml:id="contributed-talk-10e">
-		<title>Your title here</title>
-		<p><dl>
-			<li><title>First Last</title> <p>University Name</p></li>
-		</dl></p>
-		<p>Abstract</p>
-	</convention>
-
-	<convention xml:id="contributed-talk-11e">
-		<title>Your title here</title>
-		<p><dl>
-			<li><title>First Last</title> <p>University Name</p></li>
-		</dl></p>
-		<p>Abstract</p>
-	</convention>
-
-	<convention xml:id="contributed-talk-12e">
-		<title>Your title here</title>
-		<p><dl>
-			<li><title>First Last</title> <p>University Name</p></li>
-		</dl></p>
-		<p>Abstract</p>
-	</convention>
-
-	<convention xml:id="contributed-talk-13e">
-		<title>Your title here</title>
-		<p><dl>
-			<li><title>First Last</title> <p>University Name</p></li>
-		</dl></p>
-		<p>Abstract</p>
-	</convention>
-
 	<convention xml:id="contributed-talk-7f">
 		<title>The Mathematics of Procedural Generation: What does the movie Tron and modern video games have in common?</title>
 		<p><dl>
@@ -495,7 +439,7 @@
 	</convention>
 
 	<convention xml:id="contributed-talk-8f">
-		<title>Eﬀect of Missing Responses on the C(α) or Score Tests in One-way Layout of Count Data</title>
+		<title>Eﬀect of Missing Responses on the <m>C(\alpha)</m> or Score Tests in One-way Layout of Count Data</title>
 		<p><dl>
 			<li><title>Abdulla Mamun</title> <p>Gonzaga University</p></li>
 		</dl></p>

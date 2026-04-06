@@ -111,13 +111,13 @@
     <col width="40%" />
     <row>
       <cell><nbsp/></cell>
-      <cell right="medium"><em>Recreational Math</em> </cell>
-      <cell><em>Undergraduate Research</em> </cell>
+      <cell right="medium">Special Session: Recreational Math: Engaging Students with games, puzzles, and outreach</cell>
+      <cell><em>Student Special Session: Undergraduate Research</em> </cell>
     </row>
     <row>
       <cell><nbsp/></cell>
-      <cell right="medium">Room 1</cell>
-      <cell>Room 2</cell>
+      <cell right="medium">Graf 124</cell>
+      <cell>Graf 117</cell>
     </row>
     <row>
       <cell>3:15-3:30</cell>
@@ -162,48 +162,48 @@
     <col width="40%" />
     <row>
       <cell><nbsp/></cell>
-      <cell right="medium"><em>Differential Equations</em> </cell>
-      <cell><em>Student Session</em> </cell>
+      <cell right="medium"><em>Student Special Session: Student Work from Competitions or Class Projects</em> </cell>
+      <cell><em>Student Session: Differential Equations</em> </cell>
     </row>
     <row>
       <cell><nbsp/></cell>
-      <cell right="medium">Room 3</cell>
-      <cell>Room 4</cell>
+      <cell right="medium">Graf 118</cell>
+      <cell>Graf 126</cell>
     </row>
     <row>
       <cell>3:15-3:30</cell>
-      <cell right="medium"><p><xref ref="contributed-talk-7c" text="title" /></p></cell>
-      <cell><p><xref ref="contributed-talk-7d" text="title" /></p></cell>
+      <cell right="medium"><p><xref ref="contributed-talk-7d" text="title" /></p></cell>
+      <cell><p><xref ref="contributed-talk-7e" text="title" /></p></cell>
     </row>
     <row>
       <cell>3:35-3:50</cell>
-      <cell right="medium"><p><xref ref="contributed-talk-8c" text="title" /></p></cell>
-      <cell><p><xref ref="contributed-talk-8d" text="title" /></p></cell>
+      <cell right="medium"><p><xref ref="contributed-talk-8d" text="title" /></p></cell>
+      <cell><p><xref ref="contributed-talk-8e" text="title" /></p></cell>
     </row>
     <row>
       <cell>3:50-4:05</cell>
-      <cell right="medium"><p><xref ref="contributed-talk-9c" text="title" /></p></cell>
-      <cell><p><xref ref="contributed-talk-9d" text="title" /></p></cell>
+      <cell right="medium"><p><xref ref="contributed-talk-9d" text="title" /></p></cell>
+      <cell><p><xref ref="contributed-talk-9e" text="title" /></p></cell>
     </row>
     <row>
       <cell>4:10-4:25</cell>
-      <cell right="medium"><p><xref ref="contributed-talk-10c" text="title" /></p></cell>
-      <cell><p><xref ref="contributed-talk-10d" text="title" /></p></cell>
+      <cell right="medium"><p><xref ref="contributed-talk-10d" text="title" /></p></cell>
+      <cell><p><xref ref="contributed-talk-10e" text="title" /></p></cell>
     </row>
     <row>
       <cell>4:30-4:45</cell>
-      <cell right="medium"><p><xref ref="contributed-talk-11c" text="title" /></p></cell>
-      <cell><p><xref ref="contributed-talk-11d" text="title" /></p></cell>
+      <cell right="medium"><p><xref ref="contributed-talk-11d" text="title" /></p></cell>
+      <cell><p><xref ref="contributed-talk-11e" text="title" /></p></cell>
     </row>
     <row>
       <cell>4:50-5:05</cell>
-      <cell right="medium"><p><xref ref="contributed-talk-12c" text="title" /></p></cell>
-      <cell><p>Unscheduled</p></cell>
+      <cell right="medium"><p>Unscheduled</p></cell>
+      <cell><p><xref ref="contributed-talk-12e" text="title" /></p></cell>
     </row>
     <row>
       <cell>5:10-5:25</cell>
-      <cell right="medium"><p><xref ref="contributed-talk-13c" text="title" /></p></cell>
-      <cell><p>Unscheduled</p></cell>
+      <cell right="medium"><p>Unscheduled</p></cell>
+      <cell><p><xref ref="contributed-talk-13e" text="title" /></p></cell>
     </row>
   </tabular>
 
@@ -213,47 +213,38 @@
     <col width="40%" />
     <row>
       <cell><nbsp/></cell>
-      <cell right="medium"><em>Another Session</em> </cell>
       <cell><em>General Session</em> </cell>
     </row>
     <row>
       <cell><nbsp/></cell>
-      <cell right="medium">Room 3</cell>
-      <cell>Room 4</cell>
+      <cell>Murdock 116</cell>
     </row>
     <row>
       <cell>3:15-3:30</cell>
-      <cell right="medium"><p><xref ref="contributed-talk-7e" text="title" /></p></cell>
       <cell><p><xref ref="contributed-talk-7f" text="title" /></p></cell>
     </row>
     <row>
       <cell>3:35-3:50</cell>
-      <cell right="medium"><p><xref ref="contributed-talk-8e" text="title" /></p></cell>
       <cell><p><xref ref="contributed-talk-8f" text="title" /></p></cell>
     </row>
     <row>
       <cell>3:50-4:05</cell>
-      <cell right="medium"><p><xref ref="contributed-talk-9e" text="title" /></p></cell>
       <cell><p><xref ref="contributed-talk-9f" text="title" /></p></cell>
     </row>
     <row>
       <cell>4:10-4:25</cell>
-      <cell right="medium"><p><xref ref="contributed-talk-10e" text="title" /></p></cell>
       <cell><p><xref ref="contributed-talk-10f" text="title" /></p></cell>
     </row>
     <row>
       <cell>4:30-4:45</cell>
-      <cell right="medium"><p><xref ref="contributed-talk-11e" text="title" /></p></cell>
       <cell><p><xref ref="contributed-talk-11f" text="title" /></p></cell>
     </row>
     <row>
       <cell>4:50-5:05</cell>
-      <cell right="medium"><p><xref ref="contributed-talk-12e" text="title" /></p></cell>
       <cell><p><xref ref="contributed-talk-12f" text="title" /></p></cell>
     </row>
     <row>
       <cell>5:10-5:25</cell>
-      <cell right="medium"><p><xref ref="contributed-talk-13e" text="title" /></p></cell>
       <cell><p><xref ref="contributed-talk-13f" text="title" /></p></cell>
     </row>
   </tabular>
