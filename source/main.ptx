@@ -19,6 +19,7 @@
     <chapter xml:id="chapter-abstracts" xmlns:xi="http://www.w3.org/2001/XInclude">
         <title>Abstracts</title>
 
+        <xi:include href="./abstracts_invited.ptx" />   <!-- Abstracts for invited talks and minicourses  -->
         <xi:include href="./abstracts_contributed.ptx" />   <!-- Abstracts for contributed talks  -->
 
     </chapter>

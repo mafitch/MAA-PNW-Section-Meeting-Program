@@ -5,48 +5,48 @@
 
   <p>Saturday Morning Contributed Talks</p>
 
-  <tabular valign="top"  break="yes" >
-    <col width="10%" />
-    <col width="40%" />
+  <tabular valign="top" break="yes" >
+    <col width="10%" right="medium" />
+    <col width="40%" right="medium" />
     <col width="40%" />
     <row>
       <cell><nbsp/></cell>
-      <cell right="medium"><em>Panels</em> </cell>
-      <cell><em>Student Special Session: Undergraduate Research</em> </cell>
+      <cell><em>Panels</em> </cell>
+      <cell><p><em>Student Special Session</em></p><p><em>Undergraduate Research</em></p> </cell>
     </row>
-    <row>
+    <row bottom="medium">
       <cell><nbsp/></cell>
-      <cell right="medium">Graf 124</cell>
+      <cell>Graf 124</cell>
       <cell>Graf 117</cell>
     </row>
     <row>
       <cell>10:15-10:30</cell>
-      <cell right="medium"><p><xref ref="contributed-talk-1a" text="title" /></p></cell>
+      <cell><p><xref ref="contributed-talk-1a" text="title" /></p></cell>
       <cell><p><xref ref="contributed-talk-1b" text="title" /></p></cell>
     </row>
     <row>
       <cell>10:35-10:50</cell>
-      <cell right="medium"><p>Continued</p></cell>
+      <cell><p>Continued</p></cell>
       <cell><p><xref ref="contributed-talk-2b" text="title" /></p></cell>
     </row>
     <row>
       <cell>10:55-11:10</cell>
-      <cell right="medium"><p>Continued</p></cell>
+      <cell><p>Continued</p></cell>
       <cell><p><xref ref="contributed-talk-3b" text="title" /></p></cell>
     </row>
     <row>
       <cell>11:15-11:30</cell>
-      <cell right="medium"><p><xref ref="contributed-talk-4a" text="title" /></p></cell>
+      <cell><p><xref ref="contributed-talk-4a" text="title" /></p></cell>
       <cell><p><xref ref="contributed-talk-4b" text="title" /></p></cell>
     </row>
     <row>
       <cell>11:35-11:50</cell>
-      <cell right="medium"><p>Continued</p></cell>
+      <cell><p>Continued</p></cell>
       <cell><p><xref ref="contributed-talk-5b" text="title" /></p></cell>
     </row>
     <row>
       <cell>11:55-12:10</cell>
-      <cell right="medium"><p>Continued</p></cell>
+      <cell><p>Continued</p></cell>
       <cell><p><xref ref="contributed-talk-6b" text="title" /></p></cell>
     </row>
     <row>
@@ -54,168 +54,157 @@
     </row>
   </tabular>
 
-  <tabular valign="top"  break="yes" >
-    <col width="10%" />
-    <col width="40%" />
+  <tabular valign="top" break="yes" >
+    <col width="10%" right="medium" />
+    <col width="40%" right="medium" />
     <col width="40%" />
     <row>
       <cell><nbsp/></cell>
-      <cell right="medium"><em>Student Special Session: Student Work from Competitions or Class Projects</em> </cell>
-      <cell><em>Special Session: Innovation in Teaching and Learning in Undergraduate Mathematics</em> </cell>
+      <cell><p><em>Student Special Session</em></p> <p><em>Student Work from Competitions or Class Projects</em></p> </cell>
+      <cell><p><em>Special Session</em></p> <p><em>Innovation in Teaching and Learning in Undergraduate Mathematics</em></p> </cell>
     </row>
-    <row>
+    <row bottom="medium">
       <cell><nbsp/></cell>
-      <cell right="medium">Graf 118</cell>
+      <cell>Graf 118</cell>
       <cell>Graf 126</cell>
     </row>
     <row>
       <cell>10:15-10:30</cell>
-      <cell right="medium"><p><xref ref="contributed-talk-1d" text="title" /></p></cell>
+      <cell><p><xref ref="contributed-talk-1d" text="title" /></p></cell>
       <cell><p><xref ref="contributed-talk-1e" text="title" /></p></cell>
     </row>
     <row>
       <cell>10:35-10:50</cell>
-      <cell right="medium"><p><xref ref="contributed-talk-2d" text="title" /></p></cell>
+      <cell><p><xref ref="contributed-talk-2d" text="title" /></p></cell>
       <cell><p><xref ref="contributed-talk-2e" text="title" /></p></cell>
     </row>
     <row>
       <cell>10:55-11:10</cell>
-      <cell right="medium"><p><xref ref="contributed-talk-3d" text="title" /></p></cell>
+      <cell><p><xref ref="contributed-talk-3d" text="title" /></p></cell>
       <cell><p><xref ref="contributed-talk-3e" text="title" /></p></cell>
     </row>
     <row>
       <cell>11:15-11:30</cell>
-      <cell right="medium"><p><xref ref="contributed-talk-4d" text="title" /></p></cell>
-      <cell><p><xref ref="contributed-talk-4e" text="title" /></p></cell>
+      <cell><p><xref ref="contributed-talk-4d" text="title" /></p></cell>
+      <cell><p></p></cell>
     </row>
     <row>
       <cell>11:35-11:50</cell>
-      <cell right="medium"><p><xref ref="contributed-talk-5d" text="title" /></p></cell>
-      <cell><p><xref ref="contributed-talk-5e" text="title" /></p></cell>
+      <cell><p><xref ref="contributed-talk-5d" text="title" /></p></cell>
+      <cell><p></p></cell>
     </row>
     <row>
       <cell>11:55-12:10</cell>
-      <cell right="medium"><p><xref ref="contributed-talk-6d" text="title" /></p></cell>
-      <cell><p><xref ref="contributed-talk-6e" text="title" /></p></cell>
+      <cell><p><xref ref="contributed-talk-6d" text="title" /></p></cell>
+      <cell><p></p></cell>
     </row>
     <row>
       <cell><nbsp/></cell>
     </row>
   </tabular>
 
-  <p>Afternoon Contributed Talks</p>
+  <p>Saturday Afternoon Contributed Talks</p>
 
-  <tabular valign="top"  break="yes" >
-    <col width="10%" />
-    <col width="40%" />
+  <tabular valign="top" break="yes" >
+    <col width="10%" right="medium" />
+    <col width="40%" right="medium" />
     <col width="40%" />
     <row>
       <cell><nbsp/></cell>
-      <cell right="medium">Special Session: Recreational Math: Engaging Students with games, puzzles, and outreach</cell>
-      <cell><em>Student Special Session: Undergraduate Research</em> </cell>
+      <cell><p><em>Special Session</em></p> <p><em>Recreational Math: Engaging Students with games, puzzles, and outreach</em></p></cell>
+      <cell><p><em>Student Special Session</em></p> <p><em>Undergraduate Research</em></p> </cell>
     </row>
-    <row>
+    <row bottom="medium">
       <cell><nbsp/></cell>
-      <cell right="medium">Graf 124</cell>
+      <cell>Graf 124</cell>
       <cell>Graf 117</cell>
     </row>
     <row>
       <cell>3:15-3:30</cell>
-      <cell right="medium"><p><xref ref="contributed-talk-7a" text="title" /></p></cell>
+      <cell><p><xref ref="contributed-talk-7a" text="title" /></p></cell>
       <cell><p><xref ref="contributed-talk-7b" text="title" /></p></cell>
     </row>
     <row>
       <cell>3:35-3:50</cell>
-      <cell right="medium"><p><xref ref="contributed-talk-8a" text="title" /></p></cell>
+      <cell><p><xref ref="contributed-talk-8a" text="title" /></p></cell>
       <cell><p><xref ref="contributed-talk-8b" text="title" /></p></cell>
     </row>
     <row>
-      <cell>3:50-4:05</cell>
-      <cell right="medium"><p><xref ref="contributed-talk-9a" text="title" /></p></cell>
+      <cell>3:55-4:10</cell>
+      <cell><p><xref ref="contributed-talk-9a" text="title" /></p></cell>
       <cell><p><xref ref="contributed-talk-9b" text="title" /></p></cell>
     </row>
     <row>
-      <cell>4:10-4:25</cell>
-      <cell right="medium"><p><xref ref="contributed-talk-10a" text="title" /></p></cell>
+      <cell>4:15-4:30</cell>
+      <cell><p></p></cell>
       <cell><p><xref ref="contributed-talk-10b" text="title" /></p></cell>
     </row>
     <row>
-      <cell>4:30-4:45</cell>
-      <cell right="medium"><p><xref ref="contributed-talk-11a" text="title" /></p></cell>
+      <cell>4:35-4:50</cell>
+      <cell><p></p></cell>
       <cell><p><xref ref="contributed-talk-11b" text="title" /></p></cell>
     </row>
     <row>
-      <cell>4:50-5:05</cell>
-      <cell right="medium"><p><xref ref="contributed-talk-12a" text="title" /></p></cell>
+      <cell>4:55-5:10</cell>
+      <cell><p></p></cell>
       <cell><p><xref ref="contributed-talk-12b" text="title" /></p></cell>
-    </row>
-    <row>
-      <cell>5:10-5:25</cell>
-      <cell right="medium"><p><xref ref="contributed-talk-13a" text="title" /></p></cell>
-      <cell><p><xref ref="contributed-talk-13b" text="title" /></p></cell>
     </row>
   </tabular>
 
-  <tabular valign="top"  break="yes" >
-    <col width="10%" />
-    <col width="40%" />
+  <tabular valign="top" break="yes" >
+    <col width="10%" right="medium" />
+    <col width="40%" right="medium" />
     <col width="40%" />
     <row>
       <cell><nbsp/></cell>
-      <cell right="medium"><em>Student Special Session: Student Work from Competitions or Class Projects</em> </cell>
-      <cell><em>Student Session: Differential Equations</em> </cell>
+      <cell><p><em>Student Special Session</em></p> <p><em>Student Work from Competitions or Class Projects</em></p> </cell>
+      <cell><p><em>Student Session</em></p> <p><em>Differential Equations</em></p> </cell>
     </row>
-    <row>
+    <row bottom="medium">
       <cell><nbsp/></cell>
-      <cell right="medium">Graf 118</cell>
+      <cell>Graf 118</cell>
       <cell>Graf 126</cell>
     </row>
     <row>
       <cell>3:15-3:30</cell>
-      <cell right="medium"><p><xref ref="contributed-talk-7d" text="title" /></p></cell>
+      <cell><p><xref ref="contributed-talk-7d" text="title" /></p></cell>
       <cell><p><xref ref="contributed-talk-7e" text="title" /></p></cell>
     </row>
     <row>
       <cell>3:35-3:50</cell>
-      <cell right="medium"><p><xref ref="contributed-talk-8d" text="title" /></p></cell>
+      <cell><p><xref ref="contributed-talk-8d" text="title" /></p></cell>
       <cell><p><xref ref="contributed-talk-8e" text="title" /></p></cell>
     </row>
     <row>
-      <cell>3:50-4:05</cell>
-      <cell right="medium"><p><xref ref="contributed-talk-9d" text="title" /></p></cell>
+      <cell>3:55-4:10</cell>
+      <cell><p><xref ref="contributed-talk-9d" text="title" /></p></cell>
       <cell><p><xref ref="contributed-talk-9e" text="title" /></p></cell>
     </row>
     <row>
-      <cell>4:10-4:25</cell>
-      <cell right="medium"><p><xref ref="contributed-talk-10d" text="title" /></p></cell>
+      <cell>4:15-4:30</cell>
+      <cell><p><xref ref="contributed-talk-10d" text="title" /></p></cell>
       <cell><p><xref ref="contributed-talk-10e" text="title" /></p></cell>
     </row>
     <row>
-      <cell>4:30-4:45</cell>
-      <cell right="medium"><p><xref ref="contributed-talk-11d" text="title" /></p></cell>
+      <cell>4:35-4:50</cell>
+      <cell><p><xref ref="contributed-talk-11d" text="title" /></p></cell>
       <cell><p><xref ref="contributed-talk-11e" text="title" /></p></cell>
     </row>
     <row>
-      <cell>4:50-5:05</cell>
-      <cell right="medium"><p>Unscheduled</p></cell>
+      <cell>4:55-5:10</cell>
+      <cell><p></p></cell>
       <cell><p><xref ref="contributed-talk-12e" text="title" /></p></cell>
-    </row>
-    <row>
-      <cell>5:10-5:25</cell>
-      <cell right="medium"><p>Unscheduled</p></cell>
-      <cell><p><xref ref="contributed-talk-13e" text="title" /></p></cell>
     </row>
   </tabular>
 
-  <tabular valign="top"  break="yes" >
-    <col width="10%" />
-    <col width="40%" />
+  <tabular valign="top" break="yes" >
+    <col width="10%" right="medium" />
     <col width="40%" />
     <row>
       <cell><nbsp/></cell>
       <cell><em>General Session</em> </cell>
     </row>
-    <row>
+    <row bottom="medium">
       <cell><nbsp/></cell>
       <cell>Murdock 116</cell>
     </row>
@@ -228,24 +217,20 @@
       <cell><p><xref ref="contributed-talk-8f" text="title" /></p></cell>
     </row>
     <row>
-      <cell>3:50-4:05</cell>
+      <cell>3:55-4:10</cell>
       <cell><p><xref ref="contributed-talk-9f" text="title" /></p></cell>
     </row>
     <row>
-      <cell>4:10-4:25</cell>
+      <cell>4:15-4:30</cell>
       <cell><p><xref ref="contributed-talk-10f" text="title" /></p></cell>
     </row>
     <row>
-      <cell>4:30-4:45</cell>
+      <cell>4:35-4:50</cell>
       <cell><p><xref ref="contributed-talk-11f" text="title" /></p></cell>
     </row>
     <row>
-      <cell>4:50-5:05</cell>
+      <cell>4:55-5:10</cell>
       <cell><p><xref ref="contributed-talk-12f" text="title" /></p></cell>
-    </row>
-    <row>
-      <cell>5:10-5:25</cell>
-      <cell><p><xref ref="contributed-talk-13f" text="title" /></p></cell>
     </row>
   </tabular>
 

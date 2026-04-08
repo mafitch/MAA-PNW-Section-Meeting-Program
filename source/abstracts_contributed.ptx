@@ -176,30 +176,6 @@
 		<p>I argue that what students really need is to better understand bases, and how special choices of bases lead to the powerful tools (matrix factorizations and algorithms to construct them) that our clients use. In order to accommodate this new emphasis, I will suggest what we should reduce or remove to accommodate it."</p>
 	</convention>
 
-	<convention xml:id="contributed-talk-4e">
-		<title>Your title here</title>
-		<p><dl>
-			<li><title>First Last</title> <p>University Name</p></li>
-		</dl></p>
-		<p>Abstract</p>
-	</convention>
-
-	<convention xml:id="contributed-talk-5e">
-		<title>Your title here</title>
-		<p><dl>
-			<li><title>First Last</title> <p>University Name</p></li>
-		</dl></p>
-		<p>Abstract</p>
-	</convention>
-
-	<convention xml:id="contributed-talk-6e">
-		<title>Your title here</title>
-		<p><dl>
-			<li><title>First Last</title> <p>University Name</p></li>
-		</dl></p>
-		<p>Abstract</p>
-	</convention>
-
 </subsection>
 
 <subsection>
@@ -232,92 +208,64 @@
 		<p>In this talk we will discuss our ongoing experience piloting SUMMIT at a middle school in Seattle, Washington, including challenges and successes, student comments, and project progress.</p>
 	</convention>
 
-	<convention xml:id="contributed-talk-10a">
-		<title>Your title here</title>
-		<p><dl>
-			<li><title>First Last</title> <p>University Name</p></li>
-		</dl></p>
-		<p>Abstract</p>
-	</convention>
-
-	<convention xml:id="contributed-talk-11a">
-		<title>Your title here</title>
-		<p><dl>
-			<li><title>First Last</title> <p>University Name</p></li>
-		</dl></p>
-		<p>Abstract</p>
-	</convention>
-
-	<convention xml:id="contributed-talk-12a">
-		<title>Your title here</title>
-		<p><dl>
-			<li><title>First Last</title> <p>University Name</p></li>
-		</dl></p>
-		<p>Abstract</p>
-	</convention>
-
-	<convention xml:id="contributed-talk-13a">
-		<title>Your title here</title>
-		<p><dl>
-			<li><title>First Last</title> <p>University Name</p></li>
-		</dl></p>
-		<p>Abstract</p>
-	</convention>
-
 	<convention xml:id="contributed-talk-7b">
-		<title>Your title here</title>
+		<title>Wealth Inequalities and Healthcare in Maternal Mortality Rates</title>
 		<p><dl>
-			<li><title>First Last</title> <p>University Name</p></li>
+			<li><title>Adoura Greene</title> <p>University of Washington, Tacoma </p></li>
+			<li><title>Ash Cossel</title> <p>University of Washington, Tacoma, Student</p></li>
+			<li><title>Erik Tou</title> <p>University of Washington, Tacoma </p></li>
 		</dl></p>
-		<p>Abstract</p>
+		<p>Maternal mortality is an issue affecting lives around the world. We are interested in seeing if the overall wealth disparities in a country impact the rates of maternal mortality, and we cross reference that information with the healthcare access and quality score in said country. We represent these wealth disparities using the Gini Index and Palma Ratio, and then observe the correlation coefficient between those and the maternal mortality rates and healthcare access and quality score. We found that there is indeed a strong positive correlation between maternal mortality rates, and a strong negative correlation between healthcare access and quality scores and maternal mortality rates.</p>
 	</convention>
 
 	<convention xml:id="contributed-talk-8b">
-		<title>Your title here</title>
+		<title>Topological Invenstigation of Alaskan Fresh Water Pollutants</title>
 		<p><dl>
-			<li><title>First Last</title> <p>University Name</p></li>
+			<li><title>Caleb Driskell</title> <p>University of Alaska Anchorage</p></li>
+			<li><title>Mike Timmons</title> <p>University of Alaska Anchorage</p></li>
+			<li><title>Sam Cook</title> <p>University of Alaska Anchorage</p></li>
 		</dl></p>
-		<p>Abstract</p>
+		<p>We use Kepler Mapper, a python implementation of the mapper algorithm in order to analyze and visualize high-dimensional data of Alaskan fresh water pollutants through created topological maps. These maps show us relationships in pollutants, geographic position, pH, and type of hydro-logical source. We look at the distinction between burnt streams and streams surrounded by healthy forest as a potential source of pollutants and pH changes, as well as a similar comparison between lakes, streams, and precipitation run-off.</p>
 	</convention>
 
 	<convention xml:id="contributed-talk-9b">
-		<title>Your title here</title>
+		<title>Mapper Analysis on Obesity Levels and Related Attributes</title>
 		<p><dl>
-			<li><title>First Last</title> <p>University Name</p></li>
+			<li><title>Braylon Joseph-Mosley</title> <p>University of Alaska Anchorage</p></li>
+			<li><title>Yuliya Barashkina</title> <p>University of Alaska Anchorage</p></li>
+			<li><title>Sam Cook</title> <p>University of Alaska Anchorage</p></li>
 		</dl></p>
-		<p>Abstract</p>
+		<p>We use Kepler Mapper as a way to topologically analyze a dataset found from the UC Irvine repository. The data contains records on adults and their obesity levels, age, height, and several other parameters concerning the individual’s health. We analyze the relationship between adults, their obesity level, and other factors such as whether the individual smokes or drinks.</p>
 	</convention>
 
 	<convention xml:id="contributed-talk-10b">
-		<title>Your title here</title>
+		<title>Mapper Analysis of Factors Relating to Myocardial Infarctions</title>
 		<p><dl>
-			<li><title>First Last</title> <p>University Name</p></li>
+			<li><title>Cooper Kotyk</title> <p>University of Alaska Anchorage</p></li>
+			<li><title>Madeline Salter</title> <p>University of Alaska Anchorage</p></li>
+			<li><title>Sam Cook</title> <p>University of Alaska Anchorage</p></li>
 		</dl></p>
-		<p>Abstract</p>
+		<p>Myocardial infarction, better known as a heart attack, is the leading cause of death worldwide and in the United States. Finding ways to reduce this death rate is essential for ensuring the sustainability of life. We utilized the Mapper algorithm to analyze a date set of Myocardial Infarction (MI) patient information. We explore topological relationships found within the data and present our findings.</p>
 	</convention>
 
 	<convention xml:id="contributed-talk-11b">
-		<title>Your title here</title>
+		<title>Complete Interval Maps are Mixing</title>
 		<p><dl>
-			<li><title>First Last</title> <p>University Name</p></li>
+			<li><title>Emma	O'Neil</title> <p>Portland State University</p></li>
+			<li><title>J.J.P. Veerman</title> <p>Portland State University</p></li>
+			<li><title>Folkert Tangerman</title> <p>Independent</p></li>
 		</dl></p>
-		<p>Abstract</p>
+		<p>We give an elementary proof that <m>C^2</m> expanding maps on <m>[0,1]</m> where each branch is surjective are mixing with respect to their absolutely continuous invariant measure, without the spectral theory of transfer operators.</p>
 	</convention>
 
 	<convention xml:id="contributed-talk-12b">
-		<title>Your title here</title>
+		<title>Early State Exclusion in Quantum Spin Chains</title>
 		<p><dl>
-			<li><title>First Last</title> <p>University Name</p></li>
+			<li><title>Mia Escobar</title> <p>University of Washington Tacoma</p></li>
+			<li><title>Valentin Garcia</title> <p>Brown University</p></li>
+			<li><title>Anastasiia Minenkova</title> <p>University of Hartford</p></li>
 		</dl></p>
-		<p>Abstract</p>
-	</convention>
-
-	<convention xml:id="contributed-talk-13b">
-		<title>Your title here</title>
-		<p><dl>
-			<li><title>First Last</title> <p>University Name</p></li>
-		</dl></p>
-		<p>Abstract</p>
+		<p>The existence of infinite families of <m>N \times N</m> Jacobi matrices representing the Hamiltonians of quantum spin chains with and without early state exclusion (ESE) has been shown to exist for any even <m>N \geq 4</m>. However, their existence for odd <m>N \geq 7</m> has remained an open problem. In this talk, we consider a chain of qubits experiencing nearest-neighbor interactions with environmental effects and present infinite families of <m>7 \times 7</m> Jacobi matrices with and without ESE.</p>
 	</convention>
 
 	<convention xml:id="contributed-talk-7e">
@@ -338,9 +286,9 @@
 	</convention>
 
 	<convention xml:id="contributed-talk-9e">
-		<title>From Beats to Boundary Conditions: A 7th Grader’s Musical Journey Through Fourier, Orthogonality, and PDEs</title>
+		<title>From Beats to Boundary Conditions: A 7th Grader's Musical Journey Through Fourier, Orthogonality, and PDEs</title>
 		<p><dl>
-			<li><title>Solomon Methvin</title> <p>University Name</p></li>
+			<li><title>Solomon Methvin</title> <p>Pacific University</p></li>
 		</dl></p>
 		<p>This presentation investigates orthogonality as a unifying principle in the solution of linear partial differential equations, particularly the wave and heat equations, while highlighting its connections to Fourier analysis and linear algebra. Motivated by the decomposition of musical signals into constituent frequencies, we view functions as elements of an inner product space and expand them in orthogonal bases of trigonometric functions.</p>
 		<p>From a linear algebraic perspective, these expansions parallel eigenvector decompositions, with Fourier modes arising as eigenfunctions of differential operators. Through separation of variables, solutions to PDEs are expressed as infinite series of orthogonal modes, each evolving independently over time.</p>
@@ -348,36 +296,30 @@
 	</convention>
 
 	<convention xml:id="contributed-talk-10e">
-		<title>Interpreting Stokes’ Theorem on Manifolds via Differential Geometry</title>
+		<title>Interpreting Stokes' Theorem on Manifolds via Differential Geometry</title>
 		<p><dl>
 			<li><title>Perawit Boonsomchua</title> <p>Edmonds College</p></li>
-			<li><title>Atchariyapol Chanhorm</title> <p>King Mongkut’s University of Technology North Bangkok</p></li>
+			<li><title>Atchariyapol Chanhorm</title> <p>King Mongkut's University of Technology North Bangkok</p></li>
 		</dl></p>
 		<p>In this talk, the author demonstrates the generalized Stokes' Theorem in higher dimensions through a mathematical physics perspective. Additionally, we consider how differential geometry on abstract mathematical spaces shapes our understanding of Stokes' Theorem through rigorous mathematical proof. Then, we aim to visualize these ideas, leading to a discussion on further directions in this mathematical and frontier physics study.</p>
 	</convention>
 
 	<convention xml:id="contributed-talk-11e">
-		<title>Your title here</title>
+		<title>A Comparative Analysis of Host<emdash/>Parasitoid Models Considering the Sequence of Density-Dependence and Parasitism</title>
 		<p><dl>
-			<li><title>First Last</title> <p>University Name</p></li>
+			<li><title>Karissa Nakamura</title> <p>Whitworth University</p></li>
+			<li><title>Kelsey Marcinko</title> <p>Whitworth University</p></li>
 		</dl></p>
-		<p>Abstract</p>
+		<p>We present a comparison of two sets of discrete-time, host--parasitoid models. The first set was previously analyzed by Marcinko and Kot (2020) and assumed that density-dependence precedes parasitism in the life-cycle of the host. In this talk, we present our analysis of a parallel set of models, now specifying that parasitism precedes density-dependence. Each of the four models in this second set includes a particular combination of standard functional forms for density-dependent growth of the host species and for parasitism. We focus on comparing the two sets of models to gain insight into the impacts of the order of events in the host species' life-cycle. We include consideration of bifurcations, as well as comparing equilibria and other stable attractors.</p>
 	</convention>
 
 	<convention xml:id="contributed-talk-12e">
-		<title>Your title here</title>
+		<title>Arithmetic Progressions of Algebraic Integers</title>
 		<p><dl>
-			<li><title>First Last</title> <p>University Name</p></li>
+			<li><title>Oliver Mitchell</title> <p>Seattle University</p></li>
+			<li><title>Leanne Robertson</title> <p>Seattle University</p></li>
 		</dl></p>
-		<p>Abstract</p>
-	</convention>
-
-	<convention xml:id="contributed-talk-13e">
-		<title>Your title here</title>
-		<p><dl>
-			<li><title>First Last</title> <p>University Name</p></li>
-		</dl></p>
-		<p>Abstract</p>
+		<p>In 1940, Pillai proved that every sequence of 16 or fewer consecutive rational integers contains an integer that is coprime to all the others. He also conjectured that for every <m>n\geq 17</m>, there exists a sequence of n consecutive integers that does not have this property. The following year, Brauer proved Pillai's conjecture. Various authors have extended Pillai's problem to other sets of numbers and call a sequence a Pillai sequence if there exists a lower bound <m>B</m> such that for all <m>n\geq B</m> the sequence contains $n$ consecutive integers with none coprime to all the others. In this spirit, we prove that every arithmetic progression of algebraic integers is a Pillai sequence.</p>
 	</convention>
 
 	<convention xml:id="contributed-talk-7d">
@@ -478,14 +420,6 @@
 			<li><title>Ulrich Hoensch</title> <p>Capella University</p></li>
 		</dl></p>
 		<p>We present a method of estimating model parameters for linear autonomous ODEs using least-squares regression. The coefficient of determination can be used as a measure of model fit. The method is demonstrated using US population data to fit a logistic growth model. Also, a completing species model is used to describe the interaction of two different species of yeast.</p>
-	</convention>
-
-	<convention xml:id="contributed-talk-13f">
-		<title>Your title here</title>
-		<p><dl>
-			<li><title>First Last</title> <p>University Name</p></li>
-		</dl></p>
-		<p>Abstract</p>
 	</convention>
 
 </subsection>

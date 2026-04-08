@@ -40,7 +40,7 @@
   <row>
     <cell>9:00-10:00</cell>
     <cell>Invited Address</cell>
-    <cell>Mathematics and Community Engagement </cell>
+    <cell><xref ref="plenary-2" text="title"/></cell>
     <cell>Dr. Lisa Marano</cell>
     <cell>Graf 120</cell>
   </row>
@@ -75,35 +75,35 @@
   <row>
     <cell>2:00</cell>
     <cell>Invited Address</cell>
-    <cell>Multiplex juggling sequences and Kostant’s partition function </cell>
+    <cell><xref ref="plenary-3" text="title"/></cell>
     <cell>Dr. Pamela E. Harris</cell>
     <cell>Graf 120</cell>
   </row>
   <row>
-    <cell>3:15-5:30</cell>
+    <cell>3:15-5:10</cell>
     <cell><xref ref="section-schedule-contributed" text="custom" > Contributed Talks</xref></cell>
     <cell> </cell>
     <cell> </cell>
     <cell>Various</cell>
   </row>
   <row>
-    <cell>6:00</cell>
+    <cell>5:30</cell>
     <cell>Social Reception</cell>
     <cell> </cell>
     <cell> </cell>
     <cell>Keck Atrium</cell>
   </row>
   <row>
-    <cell>7:00</cell>
+    <cell>6:30</cell>
     <cell>Section Awards Ceremony</cell>
     <cell> </cell>
     <cell> </cell>
     <cell>Graf 120</cell>
   </row>
   <row>
-    <cell>7:30</cell>
+    <cell>7:00</cell>
     <cell>Invited Address</cell>
-    <cell>Juggling Counts </cell>
+    <cell><xref ref="plenary-4" text="title"/></cell>
     <cell>Dr. Steve Butler</cell>
     <cell>Graf 120</cell>
   </row>

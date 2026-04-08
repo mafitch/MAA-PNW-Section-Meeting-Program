@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<section xml:id="section-abstracts-invited" >
+<title>Abstracts: Invited Talks</title>
+
+<subsection xml:id="subsection-minicourses">
+	<title>Minicourses</title>
+
+	<convention xml:id="minicourse-1">
+		<title>Creating Accessible (and Interactive) Course Materials</title>
+		<p><dl>
+			<li><title>Oscar Levin</title> <p>University of Northern Colorado</p></li>
+		</dl></p>
+		<p>Recent state and federal laws have motivated many universities to require that all digital materials shared with students meet official accessibility standards. This requirement can be especially challenging for STEM disciplines with materials involving formulas and diagrams.</p>
+		<p>In this minicourse, we will explore how <pretext/>, a free and open-source authoring system, can be used to easily produce all your course materials in fully accessible formats. Not only that, <pretext/> lets you include interactive exercises and demonstrations directly in your course documents.</p>
+		<p>The minicourse will be a hands-on tutorial (bring your laptop) that guides you through creating your first <pretext/> documents. You will create a syllabus, worksheet (or handout), and see how to organize these and future documents into a freely hosted online “course” that can be embedded in your learning management system.</p>
+	</convention>
+
+	<convention xml:id="minicourse-2">
+		<title>Revising Course Syllabi for Proficiency: Standards- and Specifications-Based Approaches</title>
+		<p><dl>
+			<li><title>Lisa Marano</title> <p>West Chester University</p></li>
+		</dl></p>
+		<p>This interactive workshop supports faculty in revising course syllabi to incorporate standards‑based grading, specifications‑based grading, or hybrid proficiency‑oriented approaches. Participants will engage in guided, hands‑on activities to rethink learning outcomes, assessment structures, and grading policies so that they better reflect how learning unfolds over time. Student progression data from a discrete mathematics course, visualized through Sankey diagrams, will be used as a reflective lens to illustrate how students often require multiple feedback cycles to demonstrate proficiency, particularly for more challenging learning outcomes. Rather than prescribing a single grading model, the session emphasizes adaptable design principles and faculty decision‑making. Participants will work directly with their own syllabi throughout the workshop and will leave with concrete, student‑facing materials, such as revised learning outcomes or specifications, a draft proficiency‑based grading scheme, and clear <q>How You’ll Be Able Assessed</q> language.</p>
+		<p>To get the most out of the workshop, participants are encouraged to come with a particular course in mind. Having a digital copy of the syllabus will be especially helpful, as much of the session is structured around hands‑on revision and drafting.</p>
+	</convention>
+
+</subsection>
+
+<subsection xml:id="subsection-plenaries">
+	<title>Plenary Speakers</title>
+
+	<convention xml:id="plenary-1">
+		<title>Every Game I’m Shufflin’, Shufflin’</title>
+		<p><dl>
+			<li><title>Steve Butler</title> <p>Iowa State University</p></li>
+		</dl></p>
+		<p>Shuffling is a well-known aspect of gameplay to help make the decks “sufficiently random” to make the game interesting. Shuffling is also a source of mathematical exploration where shuffles are thought of as permutations of the cards. In this talk, we will take some tools of mathematics, modular arithmetic, and binary numbers, and show how we can apply these to shuffling, and in particular, some simple-to-learn mathematically-based card tricks, which will be performed live. Along the way, we will also learn why we should never work with jokers.</p>
+	</convention>
+
+	<convention xml:id="plenary-2">
+		<title>Mathematics and Community Engagement</title>
+		<p><dl>
+			<li><title>Lisa Marano</title> <p>West Chester University</p></li>
+		</dl></p>
+		<p>First-year seminars, learning communities, service-learning courses, undergraduate research projects, and capstone experiences are among a list of high-impact educational practices compiled by George Kuh (2008), which measurably influence students’ success in areas such as student engagement and retention. It is recommended that all college students participate in at least two of these HIPs to deepen their approaches to learning, as well as to increase the transference of knowledge (Gonyea, Kinzie, Kuh, &amp; Laird, 2008). In Mathematics, if a student participates in service-learning, it is typically in the form of tutoring, in conjunction with a school or with an after-school program, or modeling work or statistical analysis for non-profits. Today, I will discuss a number of service-learning projects developed for mathematics courses that do not involve these traditional opportunities. I will also describe my current research project which has a potential impact on my community and yours.</p>
+	</convention>
+
+	<convention xml:id="plenary-3">
+		<title>Multiplex juggling sequences and Kostant’s partition function</title>
+		<p><dl>
+			<li><title>Pamela E. Harris</title> <p>University of Wisconsin at Milwaukee</p></li>
+		</dl></p>
+		<p>Multiplex juggling sequences are generalizations of juggling sequences (describing throws of balls at discrete heights) that specify an initial and terminal configuration of balls and allow for multiple balls at any particular discrete height. Kostant’s partition function is a vector function that counts the number of ways one can express a vector as a nonnegative integer linear combination of a fixed set of vectors. What do these two families of combinatorial objects have in common? Attend this talk to find out!</p>
+	</convention>
+
+	<convention xml:id="plenary-4">
+		<title>Juggling Counts</title>
+		<p><dl>
+			<li><title>Steve Butler</title> <p>Iowa State University</p></li>
+		</dl></p>
+		<p>Mathematics is a language which can help us describe and explore patterns. One source of patterns that mathematicians have been exploring comes from juggling (the tossing of objects, usually balls or clubs). In this talk we will look at multiple ways to describe juggling patterns that allow us to find new juggling patterns, and to count how many possible patterns exist. We can compare answers to various problems to give a combinatorial proof of Worpitzky’s identity. We will also look at a few juggling-based problems that mathematics has not yet succeeded in answering.</p>
+	</convention>
+
+</subsection>
+
+</section>
