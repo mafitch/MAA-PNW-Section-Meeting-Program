@@ -208,6 +208,15 @@
 		<p>In this talk we will discuss our ongoing experience piloting SUMMIT at a middle school in Seattle, Washington, including challenges and successes, student comments, and project progress.</p>
 	</convention>
 
+	<convention xml:id="contributed-talk-10a">
+		<title>Unique Reconstruction of Numerical Monoid Generators from the Maximal Representable Function </title>
+		<p><dl>
+			<li><title>Linus Jo</title> <p>North Thurston High School</p></li>
+			<li><title>Senija Simic Muller</title> <p>Pacific Lutheran University</p></li>
+		</dl></p>
+		<p>The Frobenius coin problem asks us for the largest number that cannot be made from coins of fixed denominations. The denumerant <m>r(n)</m> of a numerical monoid <m>M=\langle a_1,\dots,a_d\rangle</m> counts the number of ways to represent <m>n</m> in <m>M</m>, and its maximal representable function <m>R(k)</m> is the largest integer with at most k representations. We show that finitely many values of <m>R(k)</m> uniquely determine the generators of <m>M</m>, and present a reconstruction algorithm.</p>
+	</convention>
+
 	<convention xml:id="contributed-talk-7b">
 		<title>Wealth Inequalities and Healthcare in Maternal Mortality Rates</title>
 		<p><dl>
@@ -319,7 +328,7 @@
 			<li><title>Oliver Mitchell</title> <p>Seattle University</p></li>
 			<li><title>Leanne Robertson</title> <p>Seattle University</p></li>
 		</dl></p>
-		<p>In 1940, Pillai proved that every sequence of 16 or fewer consecutive rational integers contains an integer that is coprime to all the others. He also conjectured that for every <m>n\geq 17</m>, there exists a sequence of n consecutive integers that does not have this property. The following year, Brauer proved Pillai's conjecture. Various authors have extended Pillai's problem to other sets of numbers and call a sequence a Pillai sequence if there exists a lower bound <m>B</m> such that for all <m>n\geq B</m> the sequence contains $n$ consecutive integers with none coprime to all the others. In this spirit, we prove that every arithmetic progression of algebraic integers is a Pillai sequence.</p>
+		<p>In 1940, Pillai proved that every sequence of 16 or fewer consecutive rational integers contains an integer that is coprime to all the others. He also conjectured that for every <m>n\geq 17</m>, there exists a sequence of n consecutive integers that does not have this property. The following year, Brauer proved Pillai's conjecture. Various authors have extended Pillai's problem to other sets of numbers and call a sequence a Pillai sequence if there exists a lower bound <m>B</m> such that for all <m>n\geq B</m> the sequence contains <m>n</m> consecutive integers with none coprime to all the others. In this spirit, we prove that every arithmetic progression of algebraic integers is a Pillai sequence.</p>
 	</convention>
 
 	<convention xml:id="contributed-talk-7d">
@@ -344,6 +353,15 @@
 	</convention>
 
 	<convention xml:id="contributed-talk-9d">
+		<title>Programs and Proofs are One: Exploring Connections Between Haskell and Cayley's Theorem</title>
+		<p><dl>
+			<li><title>Gabe Schibel</title> <p>George Fox University</p></li>
+			<li><title>Sarah Kerrigan </title> <p>George Fox University</p></li>
+		</dl></p>
+		<p>This research project explores the formal intersection between abstract algebra and functional programming, specifically utilizing the Haskell language as a medium for mathematical expression. This will be done through historical lens with one of the historical events being the Curry-Howard correspondence. The primary objective is to show how Isomorphism and Cayley's Theorem are connected with Haskell. We explore Isomorphism by illustrating how abstract group properties can be mapped onto functional paradigms found in programming. With the idea of Isomorphism, we will show and prove Cayley's Theorem, by representing every group G as a subgroup of the symmetric group acting on G. The presentation will showcase how Haskell's type classes and functions are directly related to Isomorphism theorems, especially with Cayley's Theorem. Overall showcasing how mathematical theory and functional code are two sides of the same coin and how programming and proofs are one.</p>
+	</convention>
+
+	<convention xml:id="contributed-talk-10d">
 		<title>Characteristics of the Cantor Set and Fat Cantor Set</title>
 		<p><dl>
 			<li><title>Elisabeth Oberst</title> <p>George Fox University</p></li>
@@ -352,7 +370,7 @@
 		<p>The Cantor set, named after the famed mathematician Georg Cantor, has many fascinating topological properties, such as being closed, nowhere dense, and uncountable. To construct the Cantor set, one begins by removing the middle open interval of size 1/3 from the closed interval [0,1]. Then, remove the middle open interval of the resulting two closed intervals. Repeating this process infinitely and taking the intersection of all iterations yields the Cantor set. In contrast, a fat Cantor set is constructed by removing the middle open interval of a size smaller than 1/3. Although fat Cantor sets have many of the same properties as standard Cantor sets, there are surprising differences. This presentation introduces the construction and properties of the Cantor set and a fat Cantor set, and briefly explores their applications.</p>
 	</convention>
 
-	<convention xml:id="contributed-talk-10d">
+	<convention xml:id="contributed-talk-11d">
 		<title>Discontinuity</title>
 		<p><dl>
 			<li><title>Mason McBride</title> <p>George Fox University</p></li>
@@ -363,7 +381,7 @@
 		<p>This leads to the deeper question: how complicated can the set of discontinuities be? The key result is that for any function, the set of discontinuities is an <m>F_\sigma</m> set, meaning it can be written as a countable union of closed sets. However, not every subset of <m>\mathbb{R}</m> has this form, for example, the irrationals do not, highlighting a fundamental limitation and guiding the study of discontinuity.</p>
 	</convention>
 
-	<convention xml:id="contributed-talk-11d">
+	<convention xml:id="contributed-talk-12d">
 		<title>Peculiarities of Connectedness in the Topologist's Sine Curve</title>
 		<p><dl>
 			<li><title>Derek So</title> <p>George Fox University</p></li>
