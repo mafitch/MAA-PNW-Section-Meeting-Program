@@ -6,7 +6,7 @@
 <tabular valign="top"  break="yes" >
   <col width="15%" />
   <col width="10%" />
-  <col width="25%" />
+  <col width="35%" />
   <col width="25%" />
   <col width="15%" />
   <row bottom="medium">
@@ -21,7 +21,7 @@
     <cell>Executive Meeting</cell>
     <cell> </cell>
     <cell> </cell>
-    <cell>Presidents’ Dining Room, Dillin Hall</cell>
+    <cell><p>Presidents' Dining Room, Dillin Hall</p></cell>
   </row>
   <row>
     <cell>8:00</cell>
@@ -34,19 +34,19 @@
     <cell>9:00</cell>
     <cell>Welcome Address</cell>
     <cell> </cell>
-    <cell>Dr. Mark Blegen, President of Linfield University</cell>
+    <cell><p>Dr. Mark Blegen, President of Linfield University</p></cell>
     <cell>Graf 120</cell>
   </row>
   <row>
     <cell>9:00-10:00</cell>
     <cell>Invited Address</cell>
-    <cell><xref ref="plenary-2" text="title"/></cell>
+    <cell><p><xref ref="plenary-2" text="title"/></p></cell>
     <cell>Dr. Lisa Marano</cell>
     <cell>Graf 120</cell>
   </row>
   <row>
     <cell>10:15-12:10</cell>
-    <cell><xref ref="section-schedule-contributed" text="custom" > Contributed Talks</xref></cell>
+    <cell><xref ref="section-schedule-contributed" text="custom" >Contributed Talks</xref></cell>
     <cell> </cell>
     <cell> </cell>
     <cell>Various</cell>
@@ -62,7 +62,7 @@
     <cell>12:15-1:45</cell>
     <cell>Film</cell>
     <cell><pubtitle>Counted Out</pubtitle></cell>
-    <cell>Screening of film is open to the public and supported by NSF Grant DMS-2418778</cell>
+    <cell><p>Screening of film is open to the public and supported by NSF Grant DMS-2418778</p></cell>
     <cell>Graf 120</cell>
   </row>
   <row>
@@ -75,13 +75,13 @@
   <row>
     <cell>2:00</cell>
     <cell>Invited Address</cell>
-    <cell><xref ref="plenary-3" text="title"/></cell>
+    <cell><p><xref ref="plenary-3" text="title"/></p></cell>
     <cell>Dr. Pamela E. Harris</cell>
     <cell>Graf 120</cell>
   </row>
   <row>
     <cell>3:15-5:10</cell>
-    <cell><xref ref="section-schedule-contributed" text="custom" > Contributed Talks</xref></cell>
+    <cell><xref ref="section-schedule-contributed" text="custom" >Contributed Talks</xref></cell>
     <cell> </cell>
     <cell> </cell>
     <cell>Various</cell>

@@ -203,13 +203,13 @@
 			<li><title>Zane Swaims</title> <p>Seattle Universal Math Museum</p></li>
 		</dl></p>
 		<p>At the Seattle Universal Math Museum (SUMM), our mission is to spark a love of math in every person. Supported by MAA, SUMM has launched a program designed to support the development of positive math identities in middle school students who are most adversely affected by inequities in math education, helping them see themselves as capable, creative, and engaged doers of mathematics.</p>
-		<p>The program, called SUMMIT (Students Using Mathematics to Inspire Tomorrow), runs throughout the school year in three distinct phases. Phase 1 has students explore a myriad of math topics through hands-on lessons including games and activities. Phase 2 brings in mentors from SUMM’s community to guide students in researching a math topic of their choice; Phase 3 offers students the opportunity to to help facilitate public math-focused events at libraries, community centers, schools, and more throughout the summer.</p>
+		<p>The program, called SUMMIT (Students Using Mathematics to Inspire Tomorrow), runs throughout the school year in three distinct phases. Phase 1 has students explore a myriad of math topics through hands-on lessons including games and activities. Phase 2 brings in mentors from SUMM's community to guide students in researching a math topic of their choice; Phase 3 offers students the opportunity to to help facilitate public math-focused events at libraries, community centers, schools, and more throughout the summer.</p>
 		<p>By removing competition, and encouraging cooperation and teamwork, SUMMIT centers the community aspect of math and provides a space for students to collaborate and interact with mathematics in a fun and stress-free environment.</p>
 		<p>In this talk we will discuss our ongoing experience piloting SUMMIT at a middle school in Seattle, Washington, including challenges and successes, student comments, and project progress.</p>
 	</convention>
 
 	<convention xml:id="contributed-talk-10a">
-		<title>Unique Reconstruction of Numerical Monoid Generators from the Maximal Representable Function </title>
+		<title>Unique Reconstruction of Numerical Monoid Generators from the Maximal Representable Function</title>
 		<p><dl>
 			<li><title>Linus Jo</title> <p>North Thurston High School</p></li>
 			<li><title>Senija Simic Muller</title> <p>Pacific Lutheran University</p></li>
@@ -244,7 +244,7 @@
 			<li><title>Yuliya Barashkina</title> <p>University of Alaska Anchorage</p></li>
 			<li><title>Sam Cook</title> <p>University of Alaska Anchorage</p></li>
 		</dl></p>
-		<p>We use Kepler Mapper as a way to topologically analyze a dataset found from the UC Irvine repository. The data contains records on adults and their obesity levels, age, height, and several other parameters concerning the individual’s health. We analyze the relationship between adults, their obesity level, and other factors such as whether the individual smokes or drinks.</p>
+		<p>We use Kepler Mapper as a way to topologically analyze a dataset found from the UC Irvine repository. The data contains records on adults and their obesity levels, age, height, and several other parameters concerning the individual's health. We analyze the relationship between adults, their obesity level, and other factors such as whether the individual smokes or drinks.</p>
 	</convention>
 
 	<convention xml:id="contributed-talk-10b">
@@ -376,7 +376,7 @@
 			<li><title>Mason McBride</title> <p>George Fox University</p></li>
 			<li><title>Tom Shifley</title> <p>George Fox University</p></li>
 		</dl></p>
-		<p>Not all functions are continuous. Classic examples include functions that jump or behave differently on rationals and irrationals. For instance, Dirichlet’s function is discontinuous everywhere, but small modifications can make it continuous at a single point, showing how continuity can be adjusted.</p>
+		<p>Not all functions are continuous. Classic examples include functions that jump or behave differently on rationals and irrationals. For instance, Dirichlet's function is discontinuous everywhere, but small modifications can make it continuous at a single point, showing how continuity can be adjusted.</p>
 		<p>We can go further. Thomae's function is continuous at every irrational number but discontinuous at every rational number, showing that discontinuities can be dense yet structured.</p>
 		<p>This leads to the deeper question: how complicated can the set of discontinuities be? The key result is that for any function, the set of discontinuities is an <m>F_\sigma</m> set, meaning it can be written as a countable union of closed sets. However, not every subset of <m>\mathbb{R}</m> has this form, for example, the irrationals do not, highlighting a fundamental limitation and guiding the study of discontinuity.</p>
 	</convention>

@@ -4,9 +4,9 @@
   <title>Friday, April 17</title>
 
 <tabular valign="top"  break="yes" >
-  <col width="15%" />
   <col width="10%" />
-  <col width="25%" />
+  <col width="15%" />
+  <col width="35%" />
   <col width="25%" />
   <col width="15%" />
   <row bottom="medium">
@@ -33,14 +33,14 @@
   <row>
     <cell>3:00 - 5:30</cell>
     <cell>Minicourse</cell>
-    <cell>Creating Accessible and Interactive Materials</cell>
+    <cell><p>Creating Accessible and Interactive Materials</p></cell>
     <cell>Dr. Oscar Levin</cell>
     <cell>Graf 111</cell>
   </row>
   <row>
     <cell>3:00 - 5:30</cell>
     <cell>Minicourse</cell>
-    <cell>Revising Course Syllabi for Proficiency: Standards‑ and Specifications‑Based Approaches</cell>
+    <cell><p>Revising Course Syllabi for Proficiency: Standards- and Specifications-Based Approaches</p></cell>
     <cell>Dr. Lisa Marano</cell>
     <cell>Graf 117</cell>
   </row>
@@ -56,21 +56,21 @@
     <cell>Registration</cell>
     <cell> </cell>
     <cell> </cell>
-    <cell>Jonasson Hall in Melrose</cell>
+    <cell><p>Jonasson Hall in Melrose</p></cell>
   </row>
   <row>
     <cell>6:00 - 7:15</cell>
     <cell>Games and Gathering</cell>
     <cell> </cell>
-    <cell>Hosted by the Linfield EPiC! Math Club</cell>
+    <cell><p>Hosted by the Linfield EPiC! Math Club</p></cell>
     <cell>Jonasson Hall in Melrose</cell>
   </row>
   <row>
     <cell>7:30</cell>
     <cell>Invited Address</cell>
-    <cell><xref ref="plenary-1" text="title"/></cell>
+    <cell><p><xref ref="plenary-1" text="title"/></p></cell>
     <cell>Dr. Steve Butler</cell>
-    <cell>Nicholson Library (open to the public)</cell>
+    <cell><p>Nicholson Library (open to the public)</p></cell>
   </row>
   <row>
     <cell>8:30</cell>
