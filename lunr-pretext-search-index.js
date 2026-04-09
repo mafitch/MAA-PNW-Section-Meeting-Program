@@ -7,7 +7,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.1",
   "title": "Friday, April 17",
-  "body": " Friday, April 17         Time  Event  Title  Presenter  Location    7:45  Packet Pickup      Jonasson Hall in Melrose    8:00 - 2:30  PNW Section NExT Meeting      Jonasson Hall in Melrose    3:00 - 5:30  Minicourse  Creating Accessible and Interactive Materials  Dr. Oscar Levin  Graf 111\/115    3:00 - 5:30  Minicourse  Revising Course Syllabi for Proficiency: Standards- and Specifications-Based Approaches  Dr. Lisa Marano  Graf 117    6:00  Section NExT Dinner      Dave's Station    6:00 - 7:00  Registration      Keck Atrium    6:00 - 7:15  Games and Gathering    Hosted by the Linfield EPiC! Math Club  Keck 111\/115    7:30  Invited Address   Dr. Steve Butler  Nicholson Library (open to the public)    8:30  Dessert Reception    Nicholson Library (open to the public)    "
+  "body": " Friday, April 17         Time  Event  Title  Presenter  Location    7:45  Packet Pickup      Jonasson Hall in Melrose    8:00 - 2:30  PNW Section NExT Meeting      Jonasson Hall in Melrose    3:00 - 5:30  Minicourse  Creating Accessible and Interactive Materials  Dr. Oscar Levin  Graf 111\/115    3:00 - 5:30  Minicourse  Revising Course Syllabi for Proficiency: Standards- and Specifications-Based Approaches  Dr. Lisa Marano  Graf 117    6:00  Section NExT Dinner      Dave's Station    6:00 - 7:00  Registration      Keck Atrium    6:00 - 7:15  Games and Gathering    Hosted by the Linfield EPiC! Math Club  Graf 111\/115    7:30  Invited Address   Dr. Steve Butler  Nicholson Library (open to the public)    8:30  Dessert Reception    Nicholson Library (open to the public)    "
 },
 {
   "id": "section-schedule-saturday",
