@@ -182,6 +182,15 @@
 	<title>Contributed Talk: Friday Afternoon</title>
 
 	<convention xml:id="contributed-talk-7a">
+		<title>Unique Reconstruction of Numerical Monoid Generators from the Maximal Representable Function</title>
+		<p><dl>
+			<li><title>Linus Jo</title> <p>North Thurston High School</p></li>
+			<li><title>Senija Simic Muller</title> <p>Pacific Lutheran University</p></li>
+		</dl></p>
+		<p>The Frobenius coin problem asks us for the largest number that cannot be made from coins of fixed denominations. The denumerant <m>r(n)</m> of a numerical monoid <m>M=\langle a_1,\dots,a_d\rangle</m> counts the number of ways to represent <m>n</m> in <m>M</m>, and its maximal representable function <m>R(k)</m> is the largest integer with at most k representations. We show that finitely many values of <m>R(k)</m> uniquely determine the generators of <m>M</m>, and present a reconstruction algorithm.</p>
+	</convention>
+
+	<convention xml:id="contributed-talk-8a">
 		<title>Unknotting Games and Hex Mosaics</title>
 		<p><dl>
 			<li><title>Kate Kearney</title> <p>Gonzaga University</p></li>
@@ -189,7 +198,7 @@
 		<p>Knot theory provides a great tool kit for exploration from many angles.  The research I will focus on in this talk began with using ideas of mosaic knot theory to define a new variation of the unknotting number.  We worked on this project as a summer research project during the summer of 2025.  As part of the program we also led groups of high school students in a STEM summer immersion program to learn about our research.  In this talk I'll describe both the deeper dive my students took in knot theory research and the shallow wading pool we created to let the high school students take a dip.</p>
 	</convention>
 
-	<convention xml:id="contributed-talk-8a">
+	<convention xml:id="contributed-talk-9a">
 		<title>From Kropki Sudoku to Graph Theory</title>
 		<p><dl>
 			<li><title>Oscar Levin</title> <p>University of Northern Colorado</p></li>
@@ -197,7 +206,7 @@
 		<p>The kropki variant of sudoku adds white or black dots between cells to indicate their digits are consecutive or in 1:2 ratio, respectively.  In this talk we will explore whether having kropki dots is enough to uniquely specify a sudoku puzzle, even with no digits initially given.  For 4x4 sudoku grids, this is always the case.  But looking at 6x6 puzzles we show, using Ramsey Theory like arguments, that in a very strong way, kropki dots are not enough to always guarantee a unique solution.</p>
 	</convention>
 
-	<convention xml:id="contributed-talk-9a">
+	<convention xml:id="contributed-talk-10a">
 		<title>Climbing to the SUMMIT and Conquering the Fears of Mathematics</title>
 		<p><dl>
 			<li><title>Zane Swaims</title> <p>Seattle Universal Math Museum</p></li>
@@ -206,15 +215,6 @@
 		<p>The program, called SUMMIT (Students Using Mathematics to Inspire Tomorrow), runs throughout the school year in three distinct phases. Phase 1 has students explore a myriad of math topics through hands-on lessons including games and activities. Phase 2 brings in mentors from SUMM's community to guide students in researching a math topic of their choice; Phase 3 offers students the opportunity to to help facilitate public math-focused events at libraries, community centers, schools, and more throughout the summer.</p>
 		<p>By removing competition, and encouraging cooperation and teamwork, SUMMIT centers the community aspect of math and provides a space for students to collaborate and interact with mathematics in a fun and stress-free environment.</p>
 		<p>In this talk we will discuss our ongoing experience piloting SUMMIT at a middle school in Seattle, Washington, including challenges and successes, student comments, and project progress.</p>
-	</convention>
-
-	<convention xml:id="contributed-talk-10a">
-		<title>Unique Reconstruction of Numerical Monoid Generators from the Maximal Representable Function</title>
-		<p><dl>
-			<li><title>Linus Jo</title> <p>North Thurston High School</p></li>
-			<li><title>Senija Simic Muller</title> <p>Pacific Lutheran University</p></li>
-		</dl></p>
-		<p>The Frobenius coin problem asks us for the largest number that cannot be made from coins of fixed denominations. The denumerant <m>r(n)</m> of a numerical monoid <m>M=\langle a_1,\dots,a_d\rangle</m> counts the number of ways to represent <m>n</m> in <m>M</m>, and its maximal representable function <m>R(k)</m> is the largest integer with at most k representations. We show that finitely many values of <m>R(k)</m> uniquely determine the generators of <m>M</m>, and present a reconstruction algorithm.</p>
 	</convention>
 
 	<convention xml:id="contributed-talk-7b">
