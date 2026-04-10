@@ -173,7 +173,15 @@
 			<li><title>Jeff Stuart</title> <p>Pacific Lutheran University</p></li>
 		</dl></p>
 		<p>The current syllabus for your first course in linear algebra is already stressed by squeezing the content of your favorite year-long text into one semester or even one quarter. Client disciplines such as data science, economics and engineering use powerful tools from linear algebra, and those disciplines want us to introduce them to students. How do we teach our students about those tools without blowing up the first (and often only) linear algebra course that students take?</p>
-		<p>I argue that what students really need is to better understand bases, and how special choices of bases lead to the powerful tools (matrix factorizations and algorithms to construct them) that our clients use. In order to accommodate this new emphasis, I will suggest what we should reduce or remove to accommodate it."</p>
+		<p>I argue that what students really need is to better understand bases, and how special choices of bases lead to the powerful tools (matrix factorizations and algorithms to construct them) that our clients use. In order to accommodate this new emphasis, I will suggest what we should reduce or remove to accommodate it.</p>
+	</convention>
+
+	<convention xml:id="contributed-talk-6e">
+		<title>Perspectives on hyperbolicity</title>
+		<p><dl>
+			<li><title>Dylan Helliwell</title> <p>Seattle University</p></li>
+		</dl></p>
+		<p>Hyperbolic space arose in the early 19th century as a consequence of attempts to prove the Parallel Postulate in Euclidean geometry and the realization that negating the Parallel Postulate did not result in an inconsistent geometry.  Since then, notions of hyperbolicity have evolved from specific spaces, through curvature and symmetry to metric structure.  The metric approach, via Gromov hyperbolicity has enjoyed a great deal of consideration since its introduction in 1987, and a number of equivalent formulations have developed, some more intuitive than others.  In this talk, I offer a perspective on Gromov hyperbolicity that aligns with his original definition, and I describe some new spaces that can be shown to be Gromov hyperbolic without relying on alternate characterizations.</p>
 	</convention>
 
 </subsection>
