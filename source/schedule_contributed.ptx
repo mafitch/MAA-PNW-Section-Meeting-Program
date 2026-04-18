@@ -5,17 +5,17 @@
 
   <p>Saturday Morning Contributed Talks</p>
 
-  <tabular valign="top" break="yes" >
+  <tabular valign="top" break="yes" row-headers="yes" >
     <col width="10%" right="medium" />
     <col width="40%" right="medium" />
     <col width="40%" />
     <row>
-      <cell><nbsp/></cell>
+      <cell>Session<nbsp/></cell>
       <cell><em>Panels</em> </cell>
       <cell><p><em>Student Special Session</em></p><p><em>Undergraduate Research</em></p> </cell>
     </row>
     <row bottom="medium">
-      <cell><nbsp/></cell>
+      <cell>Room<nbsp/></cell>
       <cell>Graf 124</cell>
       <cell>Graf 117</cell>
     </row>
@@ -54,17 +54,17 @@
     </row>
   </tabular>
 
-  <tabular valign="top" break="yes" >
+  <tabular valign="top" break="yes" row-headers="yes" >
     <col width="10%" right="medium" />
     <col width="40%" right="medium" />
     <col width="40%" />
     <row>
-      <cell><nbsp/></cell>
+      <cell>Session</cell>
       <cell><p><em>Student Special Session</em></p> <p><em>Student Work from Competitions or Class Projects</em></p> </cell>
       <cell><p><em>Special Session</em></p> <p><em>Innovation in Teaching and Learning in Undergraduate Mathematics</em></p> </cell>
     </row>
     <row bottom="medium">
-      <cell><nbsp/></cell>
+      <cell>Room</cell>
       <cell>Graf 118</cell>
       <cell>Graf 126</cell>
     </row>
@@ -105,17 +105,17 @@
 
   <p>Saturday Afternoon Contributed Talks</p>
 
-  <tabular valign="top" break="yes" >
+  <tabular valign="top" break="yes" row-headers="yes" >
     <col width="10%" right="medium" />
     <col width="40%" right="medium" />
     <col width="40%" />
     <row>
-      <cell><nbsp/></cell>
+      <cell>Session</cell>
       <cell><p><em>Special Session</em></p> <p><em>Recreational Math: Engaging Students with games, puzzles, and outreach</em></p></cell>
       <cell><p><em>Student Special Session</em></p> <p><em>Undergraduate Research</em></p> </cell>
     </row>
     <row bottom="medium">
-      <cell><nbsp/></cell>
+      <cell>Room</cell>
       <cell>Graf 124</cell>
       <cell>Graf 117</cell>
     </row>
@@ -151,17 +151,17 @@
     </row>
   </tabular>
 
-  <tabular valign="top" break="yes" >
+  <tabular valign="top" break="yes" row-headers="yes" >
     <col width="10%" right="medium" />
     <col width="40%" right="medium" />
     <col width="40%" />
     <row>
-      <cell><nbsp/></cell>
+      <cell>Session</cell>
       <cell><p><em>Student Special Session</em></p> <p><em>Student Work from Competitions or Class Projects</em></p> </cell>
       <cell><p><em>Student Session</em></p> <p><em>Differential Equations</em></p> </cell>
     </row>
     <row bottom="medium">
-      <cell><nbsp/></cell>
+      <cell>Room</cell>
       <cell>Graf 118</cell>
       <cell>Graf 126</cell>
     </row>
@@ -197,15 +197,15 @@
     </row>
   </tabular>
 
-  <tabular valign="top" break="yes" >
+  <tabular valign="top" break="yes" row-headers="yes" >
     <col width="10%" right="medium" />
     <col width="40%" />
     <row>
-      <cell><nbsp/></cell>
+      <cell>Session</cell>
       <cell><em>General Session</em> </cell>
     </row>
     <row bottom="medium">
-      <cell><nbsp/></cell>
+      <cell>Room</cell>
       <cell>Graf 115</cell>
     </row>
     <row>
