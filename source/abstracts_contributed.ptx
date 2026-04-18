@@ -240,7 +240,7 @@
 		<title>Topological Invenstigation of Alaskan Fresh Water Pollutants</title>
 		<p><dl>
 			<li><title>Caleb Driskell</title> <p>University of Alaska Anchorage</p></li>
-			<li><title>Mike Timmons</title> <p>University of Alaska Anchorage</p></li>
+			<li><title>Mike Timmons</title> <p>Linn-Benton Community College</p></li>
 			<li><title>Sam Cook</title> <p>University of Alaska Anchorage</p></li>
 		</dl></p>
 		<p>We use Kepler Mapper, a python implementation of the mapper algorithm in order to analyze and visualize high-dimensional data of Alaskan fresh water pollutants through created topological maps. These maps show us relationships in pollutants, geographic position, pH, and type of hydro-logical source. We look at the distinction between burnt streams and streams surrounded by healthy forest as a potential source of pollutants and pH changes, as well as a similar comparison between lakes, streams, and precipitation run-off.</p>
@@ -260,7 +260,7 @@
 		<title>Mapper Analysis of Factors Relating to Myocardial Infarctions</title>
 		<p><dl>
 			<li><title>Cooper Kotyk</title> <p>University of Alaska Anchorage</p></li>
-			<li><title>Madeline Salter</title> <p>University of Alaska Anchorage</p></li>
+			<li><title>Madeline Salter</title> <p>Linn-Benton Community College</p></li>
 			<li><title>Sam Cook</title> <p>University of Alaska Anchorage</p></li>
 		</dl></p>
 		<p>Myocardial infarction, better known as a heart attack, is the leading cause of death worldwide and in the United States. Finding ways to reduce this death rate is essential for ensuring the sustainability of life. We utilized the Mapper algorithm to analyze a date set of Myocardial Infarction (MI) patient information. We explore topological relationships found within the data and present our findings.</p>
